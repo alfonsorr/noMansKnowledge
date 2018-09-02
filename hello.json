@@ -1,0 +1,1024 @@
+{"output":{"name":"Freighter Warp Reactor Tau","amount":1},"input":[{"name":"Dynamic Resonator","amount":2},{"name":"Fungal Mould","amount":1000},{"name":"Nickel","amount":600}],"craftType":"refinery"}
+{"output":{"name":"Blaze Javelin Drill Array Theta","amount":1},"input":[{"name":"Copper","amount":120},{"name":"Iridium","amount":100},{"name":"Iron","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Cryogenic Chamber","amount":1},"input":[{"name":"Cryo-Pump","amount":1},{"name":"Living Glass","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Glass Cuboid Room","amount":1},"input":[{"name":"Carite Sheet","amount":1},{"name":"Glass","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Damage Radius Tau","amount":1},"input":[{"name":"Emeril","amount":50},{"name":"Plutonium","amount":200}],"craftType":"refinery"}
+{"output":{"name":"Combat Amplifier Tau","amount":1},"input":[{"name":"Chrysonite","amount":50},{"name":"Platinum","amount":100},{"name":"Titanium","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Cobalt Mirror","amount":1},"input":[{"name":"Ionised Cobalt","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Herox","amount":1},"input":[{"name":"Ammonia","amount":50},{"name":"Ionised Cobalt","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Infra-Knife Accelerator Fire Rate Tau","amount":1},"input":[{"name":"Nickel","amount":50},{"name":"Platinum","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Blaze Javelin Damage Tau","amount":1},"input":[{"name":"Chrysonite","amount":50},{"name":"Platinum","amount":100},{"name":"Titanium","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Warp Reactor Tau","amount":1},"input":[{"name":"Dynamic Resonator","amount":2},{"name":"Fungal Mould","amount":1000},{"name":"Nickel","amount":600}],"craftType":"refinery"}
+{"output":{"name":"Scatter Blaster Accuracy Sigma","amount":1},"input":[{"name":"Chrysonite","amount":25},{"name":"Thamium9","amount":100},{"name":"Titanium","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Rapidfire Sigma","amount":1},"input":[{"name":"Heridium","amount":100},{"name":"Plutonium","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Dyson Pump","amount":1},"input":[{"name":"Technology Module","amount":2},{"name":"TetraCobalt","amount":3}],"craftType":"refinery"}
+{"output":{"name":"TetraCobalt","amount":1},"input":[{"name":"Cobalt","amount":50},{"name":"Ionised Cobalt","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Red Canister","amount":1},"input":[{"name":"Dynamic Resonator","amount":2},{"name":"Glass","amount":5},{"name":"Voltaic cell","amount":10}],"craftType":"blueprint"}
+{"output":{"name":"Warp Cell","amount":1},"input":[{"name":"Antimatter","amount":1},{"name":"Antimatter Housing","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Pulse Spitter Reload Theta","amount":1},"input":[{"name":"Heridium","amount":250},{"name":"Platinum","amount":150},{"name":"Zinc","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Accelerated Fire Tau","amount":1},"input":[{"name":"Nickel","amount":50},{"name":"Platinum","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Rocket Boots","amount":1},"input":[{"name":"Salt Refractor","amount":1},{"name":"Tritium","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Personal Forcefield","amount":1},"input":[{"name":"Ion Battery","amount":1},{"name":"Technology Module","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"ShieldBoost Sigma","amount":1},"input":[{"name":"Platinum","amount":8},{"name":"Thamium9","amount":15},{"name":"Zinc","amount":15}],"craftType":"blueprint"}
+{"output":{"name":"Enriched Carbon","amount":1},"input":[{"name":"Chlorine","amount":5},{"name":"Condensed Carbon","amount":10},{"name":"Radon","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Marrow Bulb","amount":4},"input":[{"name":"Mordite","amount":1},{"name":"Sodium Nitrate","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Straight Corridor","amount":1},"input":[{"name":"Iron","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Deflection Enhancement Theta","amount":1},"input":[{"name":"Emeril","amount":100},{"name":"Platinum","amount":40},{"name":"Zinc","amount":150}],"craftType":"blueprint"}
+{"output":{"name":"State Phasure","amount":1},"input":[{"name":"Cadmium","amount":100},{"name":"Photic Jade","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Beam Focus Sigma","amount":1},"input":[{"name":"Heridium","amount":20},{"name":"Iron","amount":10},{"name":"Plutonium","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Shielding Sheet","amount":1},"input":[{"name":"Iron","amount":150},{"name":"Platinum","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Curved Freighter Corridor","amount":1},"input":[{"name":"Silver","amount":80},{"name":"Tritium","amount":10}],"craftType":"blueprint"}
+{"output":{"name":"Base Teleport Module","amount":1},"input":[{"name":"Ion Battery","amount":1},{"name":"Ionised Cobalt","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Scatter Blaster Damage Tau","amount":1},"input":[{"name":"Iridium","amount":25},{"name":"Iron","amount":50},{"name":"Platinum","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Curved Freighter Corridor","amount":1},"input":[{"name":"Silver","amount":80},{"name":"Tritium","amount":10}],"craftType":"refinery"}
+{"output":{"name":"Unstable Gel","amount":1},"input":[{"name":"Cactus Flesh","amount":200}],"craftType":"refinery"}
+{"output":{"name":"Unstable Plasma","amount":1},"input":[{"name":"Carbon","amount":20},{"name":"Ferrite Dust","amount":20},{"name":"Oxygen","amount":10}],"craftType":"refinery"}
+{"output":{"name":"Magno-Gold","amount":1},"input":[{"name":"Ionised Cobalt","amount":50},{"name":"Phosphorus","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Quantum Processor","amount":1},"input":[{"name":"Circuit Board","amount":1},{"name":"Superconductor","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Fuel Oxidiser","amount":1},"input":[{"name":"Gold","amount":50},{"name":"Quad Servo","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Chromatic Metal","amount":8},"input":[{"name":"Activated Indium","amount":1},{"name":"Pure Ferrite","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Chromatic Metal","amount":30},"input":[{"name":"Gold","amount":1},{"name":"Indium","amount":1},{"name":"Silver","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Positron Ejector Coolant Sigma","amount":1},"input":[{"name":"Chrysonite","amount":15},{"name":"Iron","amount":50},{"name":"Thamium9","amount":15}],"craftType":"blueprint"}
+{"output":{"name":"Positron Ejector Coolant Theta","amount":1},"input":[{"name":"Chrysonite","amount":250},{"name":"Gravitino Ball","amount":10},{"name":"Thamium9","amount":200}],"craftType":"refinery"}
+{"output":{"name":"Photic Jade","amount":1},"input":[{"name":"Copper","amount":100},{"name":"Dawn's End","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Impact Damage Omega","amount":1},"input":[{"name":"Aluminium","amount":100},{"name":"Copper","amount":100},{"name":"Heridium","amount":400}],"craftType":"blueprint"}
+{"output":{"name":"Magno-Gold","amount":1},"input":[{"name":"Ionised Cobalt","amount":30},{"name":"Phosphorus","amount":30},{"name":"Platinum","amount":5}],"craftType":"refinery"}
+{"output":{"name":"Analysis Visor","amount":1},"input":[{"name":"Carbon Nanotubes","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Lubricant","amount":1},"input":[{"name":"Coprite","amount":50},{"name":"Gamma Root","amount":400}],"craftType":"refinery"}
+{"output":{"name":"Advanced Cooling Tau","amount":1},"input":[{"name":"Chrysonite","amount":70},{"name":"Iridium","amount":120},{"name":"Thamium9","amount":80}],"craftType":"refinery"}
+{"output":{"name":"Grenade Propulsion Tau","amount":1},"input":[{"name":"Chrysonite","amount":150},{"name":"Thamium9","amount":150},{"name":"Zinc","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Haz-Mat Gauntlets","amount":1},"input":[{"name":"Chromatic Metal","amount":50},{"name":"Sodium Nitrate","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Plasma Resonator","amount":1},"input":[{"name":"Pure Ferrite","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Atlas Seed","amount":1},"input":[{"name":"Cadmium","amount":100},{"name":"Captured Nanode","amount":1},{"name":"Chromatic Metal","amount":25},{"name":"Copper","amount":100},{"name":"Dark Matter","amount":1},{"name":"Dawn's End","amount":1},{"name":"Emeril","amount":100},{"name":"Englobed Shade","amount":1},{"name":"Gold","amount":100},{"name":"Indium","amount":100},{"name":"Ionised Cobalt","amount":100},{"name":"Magnetised Ferrite","amount":5},{"name":"Modified Quanta","amount":1},{"name":"Noospheric Orb","amount":1},{"name":"Novae Reclaiment","amount":1},{"name":"Photic Jade","amount":1},{"name":"Pure Ferrite","amount":100},{"name":"State Phasure","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Poly Fiber","amount":1},"input":[{"name":"Cactus Flesh","amount":100},{"name":"Star Bulb","amount":200}],"craftType":"refinery"}
+{"output":{"name":"AtlasPass v1","amount":1},"input":[{"name":"Copper","amount":200},{"name":"Microprocessor","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Gold","amount":1},"input":[{"name":"Mordite","amount":1},{"name":"Pugneum","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Ablative Armour","amount":1},"input":[{"name":"Cobalt Mirror","amount":1},{"name":"Sodium Nitrate","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Positron Ejector Damage Sigma","amount":1},"input":[{"name":"Chrysonite","amount":25},{"name":"Thamium9","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Grantine","amount":1},"input":[{"name":"Dioxite","amount":30},{"name":"Ionised Cobalt","amount":30},{"name":"Tritium","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Silver","amount":250},"input":[{"name":"Aronium","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Ricochet Tau","amount":1},"input":[{"name":"Microdensity Fabric","amount":1},{"name":"Platinum","amount":300},{"name":"Zinc","amount":150}],"craftType":"refinery"}
+{"output":{"name":"Oxygen Harvester","amount":1},"input":[{"name":"Di-hydrogen Jelly","amount":3},{"name":"Metal Plating","amount":5},{"name":"Oxygen Capsule","amount":5}],"craftType":"blueprint"}
+{"output":{"name":"AtlasPass v1","amount":1},"input":[{"name":"Copper","amount":200},{"name":"Microprocessor","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Di-hydrogen Jelly","amount":1},"input":[{"name":"Di-hydrogen","amount":40}],"craftType":"blueprint"}
+{"output":{"name":"Homingbolt Adaptor","amount":1},"input":[{"name":"AquaSphere","amount":5},{"name":"Plutonium","amount":200},{"name":"Titanium","amount":200}],"craftType":"refinery"}
+{"output":{"name":"Sodium Nitrate","amount":2},"input":[{"name":"Condensed Carbon","amount":1},{"name":"Sodium","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Carbon Crystal","amount":1},"input":[{"name":"Condensed Carbon","amount":150}],"craftType":"blueprint"}
+{"output":{"name":"Herox","amount":1},"input":[{"name":"Ammonia","amount":50},{"name":"Ionised Cobalt","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Window","amount":1},"input":[{"name":"Glass","amount":1},{"name":"Heridium","amount":10}],"craftType":"refinery"}
+{"output":{"name":"Ammonia","amount":1},"input":[{"name":"Fungal Mould","amount":2},{"name":"Salt","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Infra-Knife Accelerator","amount":1},"input":[{"name":"Phosphorus","amount":100},{"name":"Technology Module","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Door","amount":1},"input":[{"name":"Iron","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Fungal Mould","amount":2},"input":[{"name":"Ammonia","amount":1},{"name":"Fungal Mould","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Captured Nanode","amount":1},"input":[{"name":"Chromatic Metal","amount":100}],"craftType":"refinery"}
+{"output":{"name":"ShieldBoost Tau","amount":1},"input":[{"name":"Gold","amount":50},{"name":"Platinum","amount":50},{"name":"Zinc","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Gold","amount":10},"input":[{"name":"Emeril","amount":1},{"name":"Ferrite Dust","amount":1},{"name":"Oxygen","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Science Terminal","amount":1},"input":[{"name":"Iron","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Magno-Gold","amount":1},"input":[{"name":"Ionised Cobalt","amount":50},{"name":"Phosphorus","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Phase Beam","amount":1},"input":[{"name":"Technology Module","amount":1},{"name":"Tritium","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Ricochet Sigma","amount":1},"input":[{"name":"Heridium","amount":100},{"name":"Iron","amount":200},{"name":"Platinum","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Cylindrical Room Frame","amount":1},"input":[{"name":"Iron","amount":80}],"craftType":"blueprint"}
+{"output":{"name":"Curved Desk","amount":1},"input":[{"name":"Iron","amount":20}],"craftType":"blueprint"}
+{"output":{"name":"Rapidfire Tau","amount":1},"input":[{"name":"Aluminium","amount":50},{"name":"Platinum","amount":50},{"name":"Titanium","amount":200}],"craftType":"blueprint"}
+{"output":{"name":"Carbon","amount":2},"input":[{"name":"Cactus Flesh","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Non-ferrous plate","amount":1},"input":[{"name":"Gamma Root","amount":50},{"name":"Marrow Bulb","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Dioxite","amount":1},"input":[{"name":"Carbon","amount":1},{"name":"Sodium Nitrate","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Chromatic Metal","amount":2},"input":[{"name":"Activated Cadmium","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Terumin","amount":1},"input":[{"name":"Emeril","amount":40},{"name":"Gold","amount":40},{"name":"Herox","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Terumin","amount":1},"input":[{"name":"Emeril","amount":40},{"name":"Gold","amount":40},{"name":"Herox","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Autonomous Mining Unit","amount":1},"input":[{"name":"Advanced Ion Battery","amount":1},{"name":"Metal Plating","amount":2},{"name":"Uranium","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Blaze Javelin Drill Array Tau","amount":1},"input":[{"name":"Copper","amount":30},{"name":"Iron","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Fusion Ignitor","amount":1},"input":[{"name":"Geodesite","amount":1},{"name":"Portable Reactor","amount":1},{"name":"Quantum Processor","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Silver","amount":250},"input":[{"name":"Dirty Bronze","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Radon","amount":1},"input":[{"name":"Oxygen","amount":1},{"name":"Sulphurine","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Starship Launch Fuel","amount":1},"input":[{"name":"Di-hydrogen","amount":40},{"name":"Metal Plating","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Fauna Analyzer Theta","amount":1},"input":[{"name":"Chrysonite","amount":120},{"name":"Plutonium","amount":100},{"name":"Zinc","amount":60}],"craftType":"blueprint"}
+{"output":{"name":"Cyclotron Ballista Fire Rate Theta","amount":1},"input":[{"name":"Dimensional Matrix","amount":3},{"name":"Iron","amount":300},{"name":"Thamium9","amount":300}],"craftType":"refinery"}
+{"output":{"name":"Beam Focus Sigma","amount":1},"input":[{"name":"Heridium","amount":20},{"name":"Iron","amount":20},{"name":"Plutonium","amount":25}],"craftType":"refinery"}
+{"output":{"name":"Coprite","amount":3},"input":[{"name":"Coprite","amount":1},{"name":"Oxygen","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Paving","amount":1},"input":[{"name":"Pure Ferrite","amount":5}],"craftType":"blueprint"}
+{"output":{"name":"Infrastructure Cube","amount":1},"input":[{"name":"Iron","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Positron Ejector Damage Theta","amount":1},"input":[{"name":"Carbon","amount":50},{"name":"Omegon","amount":100},{"name":"Vortex Cube","amount":3}],"craftType":"refinery"}
+{"output":{"name":"Dark Matter","amount":1},"input":[{"name":"Magnetised Ferrite","amount":5},{"name":"Noospheric Orb","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Acid","amount":1},"input":[{"name":"Fungal Mould","amount":600},{"name":"Mordite","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Star Bulb","amount":1},"input":[{"name":"Oxygen","amount":1},{"name":"Paraffinium","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Beam Impact Theta","amount":1},"input":[{"name":"Carbon","amount":50},{"name":"Omegon","amount":50},{"name":"Vortex Cube","amount":3}],"craftType":"blueprint"}
+{"output":{"name":"Accelerated Fire Theta","amount":1},"input":[{"name":"Dimensional Matrix","amount":3},{"name":"Iron","amount":150},{"name":"Thamium9","amount":300}],"craftType":"blueprint"}
+{"output":{"name":"Mordite Root","amount":1},"input":[{"name":"Mordite","amount":40}],"craftType":"blueprint"}
+{"output":{"name":"Carbon","amount":2},"input":[{"name":"Solanium","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Ionised Cobalt","amount":2},"input":[{"name":"Marrow Bulb","amount":1},{"name":"Oxygen","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Chromatic Metal","amount":3},"input":[{"name":"Emeril","amount":1},{"name":"Pure Ferrite","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Coprite Flower","amount":1},"input":[{"name":"Coprite","amount":40}],"craftType":"refinery"}
+{"output":{"name":"Blaze Javelin Coolant Tau","amount":1},"input":[{"name":"Heridium","amount":100},{"name":"Iridium","amount":200}],"craftType":"refinery"}
+{"output":{"name":"Positron Ejector Fire Rate Sigma","amount":1},"input":[{"name":"Aluminium","amount":100},{"name":"Iron","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Grantine","amount":1},"input":[{"name":"Cobalt","amount":60},{"name":"Dioxite","amount":30},{"name":"Silver","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Dioxite","amount":2},"input":[{"name":"Condensed Carbon","amount":1},{"name":"Sodium Nitrate","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Sodium Nitrate","amount":2},"input":[{"name":"Carbon","amount":1},{"name":"Marrow Bulb","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Iridesite","amount":1},"input":[{"name":"Aronium","amount":1},{"name":"Grantine","amount":1},{"name":"Magno-Gold","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Life Support Module Sigma","amount":1},"input":[{"name":"Platinum","amount":10},{"name":"Plutonium","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Carite Sheet","amount":1},"input":[{"name":"Iron","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Scatter Blaster Reload Sigma","amount":1},"input":[{"name":"Heridium","amount":8},{"name":"Iron","amount":10},{"name":"Zinc","amount":10}],"craftType":"blueprint"}
+{"output":{"name":"Cuboid Room Flooring","amount":1},"input":[{"name":"Iron","amount":30}],"craftType":"blueprint"}
+{"output":{"name":"Toxin Suppressor Tau","amount":1},"input":[{"name":"Carbon","amount":100},{"name":"Microdensity Fabric","amount":1},{"name":"Zinc","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Magnetised Ferrite","amount":1},"input":[{"name":"Copper","amount":1},{"name":"Ferrite Dust","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Cannon Damage Sigma","amount":1},"input":[{"name":"Iron","amount":25},{"name":"Thamium9","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Pulse Spitter Damage Theta","amount":1},"input":[{"name":"Aluminium","amount":200},{"name":"Copper","amount":200},{"name":"Heridium","amount":400}],"craftType":"refinery"}
+{"output":{"name":"Magmox","amount":1},"input":[{"name":"Carbon","amount":30},{"name":"Plutonium","amount":300},{"name":"Thamium9","amount":300}],"craftType":"refinery"}
+{"output":{"name":"Positron Ejector Fire Rate Theta","amount":1},"input":[{"name":"Dimensional Matrix","amount":3},{"name":"Iron","amount":150},{"name":"Thamium9","amount":300}],"craftType":"blueprint"}
+{"output":{"name":"Microdensity Fabric","amount":1},"input":[{"name":"Iron","amount":50},{"name":"Platinum","amount":10}],"craftType":"blueprint"}
+{"output":{"name":"Exocraft Acceleration Module","amount":1},"input":[{"name":"Armadium","amount":10},{"name":"Heridium","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Enriched Carbon","amount":1},"input":[{"name":"Carbon","amount":20},{"name":"Chlorine","amount":5},{"name":"Radon","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Rapidfire Tau","amount":1},"input":[{"name":"Aluminium","amount":100},{"name":"Platinum","amount":100},{"name":"Titanium","amount":200}],"craftType":"refinery"}
+{"output":{"name":"Fusion Accelerant","amount":1},"input":[{"name":"Nitrogen Salt","amount":1},{"name":"Organic Catalyst","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Impact Damage Theta","amount":1},"input":[{"name":"Iridium","amount":200},{"name":"Platinum","amount":200},{"name":"Radnox","amount":80}],"craftType":"refinery"}
+{"output":{"name":"Damage Radius","amount":1},"input":[{"name":"Chrysonite","amount":75},{"name":"Iron","amount":50},{"name":"Zinc","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Photon Accelerator","amount":1},"input":[{"name":"Nickel","amount":50},{"name":"Platinum","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Cylindrical Room","amount":1},"input":[{"name":"Pure Ferrite","amount":350}],"craftType":"blueprint"}
+{"output":{"name":"Herox","amount":1},"input":[{"name":"Ammonia","amount":30},{"name":"Ionised Cobalt","amount":30},{"name":"Silver","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Boltcaster Clip Tau","amount":1},"input":[{"name":"Nickel","amount":10},{"name":"Plutonium","amount":50},{"name":"Zinc","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Boltcaster Clip Sigma","amount":1},"input":[{"name":"Microdensity Fabric","amount":2},{"name":"Plutonium","amount":50},{"name":"Titanium","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Impact Damage Sigma","amount":1},"input":[{"name":"Iridium","amount":50},{"name":"Iron","amount":50},{"name":"Platinum","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Blaze Javelin Coolant Tau","amount":1},"input":[{"name":"Heridium","amount":50},{"name":"Iridium","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Photonix Core","amount":1},"input":[{"name":"Chrysonite","amount":100},{"name":"Iron","amount":200},{"name":"Zinc","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Window","amount":1},"input":[{"name":"Glass","amount":1},{"name":"Heridium","amount":10},{"name":"Iron","amount":30}],"craftType":"blueprint"}
+{"output":{"name":"Combat Scope","amount":1},"input":[{"name":"Ion Battery","amount":2},{"name":"Technology Module","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Dioxite","amount":1},"input":[{"name":"Frost Crystal","amount":2},{"name":"Salt","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Pulse Jet Sigma","amount":1},"input":[{"name":"Chrysonite","amount":50},{"name":"Iron","amount":200},{"name":"Zinc","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Coolant Network Tau","amount":1},"input":[{"name":"Carbon","amount":100},{"name":"Microdensity Fabric","amount":1},{"name":"Zinc","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Stamina Enhancement Sigma","amount":1},"input":[{"name":"Carbon","amount":20},{"name":"Iron","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Condensed Carbon","amount":5},"input":[{"name":"Carbon","amount":2},{"name":"Oxygen","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Combat Amplifier Sigma","amount":1},"input":[{"name":"Carbon","amount":15},{"name":"Titanium","amount":15}],"craftType":"blueprint"}
+{"output":{"name":"Photonix Core","amount":1},"input":[{"name":"Chrysonite","amount":50},{"name":"Iron","amount":200},{"name":"Zinc","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Carbon Nanotubes","amount":1},"input":[{"name":"Carbon","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Uranium","amount":1},"input":[{"name":"Ferrite Dust","amount":1},{"name":"Phosphorus","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Agricultural Terminal","amount":1},"input":[{"name":"Chromatic Metal","amount":40},{"name":"Condensed Carbon","amount":25}],"craftType":"refinery"}
+{"output":{"name":"Dark Matter","amount":1},"input":[{"name":"Magnetised Ferrite","amount":5},{"name":"Noospheric Orb","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Oxygen","amount":150},"input":[{"name":"Superoxide Crystal","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Storage Container","amount":1},"input":[{"name":"Magnetised Ferrite","amount":50},{"name":"Sodium","amount":20}],"craftType":"blueprint"}
+{"output":{"name":"Jetpack Booster Theta","amount":1},"input":[{"name":"Chrysonite","amount":300},{"name":"Omegon","amount":50},{"name":"Plutonium","amount":300}],"craftType":"refinery"}
+{"output":{"name":"Terrain Manipulator","amount":1},"input":[{"name":"Carbon Nanotubes","amount":2},{"name":"Di-hydrogen Jelly","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Square Room","amount":1},"input":[{"name":"Iron","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Cyclotron Ballista Damage Tau","amount":1},"input":[{"name":"Carbon","amount":50},{"name":"Copper","amount":50},{"name":"Thamium9","amount":200}],"craftType":"refinery"}
+{"output":{"name":"Beam Coolant System Sigma","amount":1},"input":[{"name":"Heridium","amount":20},{"name":"Iridium","amount":50}],"craftType":"refinery"}
+{"output":{"name":"ShieldBoost Tau","amount":1},"input":[{"name":"Gold","amount":50},{"name":"Platinum","amount":100},{"name":"Zinc","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Exocraft Mining Laser Upgrade Sigma","amount":1},"input":[{"name":"Chromatic Metal","amount":25},{"name":"Pugneum","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Chromatic Metal","amount":2},"input":[{"name":"Cadmium","amount":1},{"name":"Pure Ferrite","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Lemmium","amount":1},"input":[{"name":"Pure Ferrite","amount":100},{"name":"Uranium","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Thermic Layer Tau","amount":1},"input":[{"name":"Carbon","amount":100},{"name":"Microdensity Fabric","amount":0},{"name":"Zinc","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Explosive","amount":1},"input":[{"name":"Coprite","amount":40},{"name":"Solanium","amount":40}],"craftType":"blueprint"}
+{"output":{"name":"Unstable Plasma","amount":1},"input":[{"name":"Metal Plating","amount":1},{"name":"Oxygen","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Signal Booster","amount":1},"input":[{"name":"Carbon Nanotubes","amount":1},{"name":"Metal Plating","amount":1},{"name":"Sodium","amount":15}],"craftType":"refinery"}
+{"output":{"name":"Infra-Knife Accelerator Coolant Theta","amount":1},"input":[{"name":"Chrysonite","amount":250},{"name":"Gravitino Ball","amount":10},{"name":"Thamium9","amount":200}],"craftType":"refinery"}
+{"output":{"name":"Pyrite","amount":1},"input":[{"name":"Ferrite Dust","amount":1},{"name":"Uranium","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Frost Crystal","amount":2},"input":[{"name":"Dioxite","amount":1},{"name":"Frost Crystal","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Sodium Nitrate","amount":1},"input":[{"name":"Carbon","amount":1},{"name":"Sodium","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Star Seed","amount":1},"input":[{"name":"Gold","amount":16},{"name":"Platinum","amount":8},{"name":"Tritium","amount":8}],"craftType":"blueprint"}
+{"output":{"name":"Neural Stimulator","amount":1},"input":[{"name":"Chromatic Metal","amount":100},{"name":"Condensed Carbon","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Atmosphere Harvester","amount":1},"input":[{"name":"Ammonia","amount":100},{"name":"Hermetic Seal","amount":2},{"name":"Metal Plating","amount":2}],"craftType":"blueprint"}
+{"output":{"name":"Antimatter","amount":1},"input":[{"name":"Chromatic Metal","amount":25},{"name":"Condensed Carbon","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Positron Ejector","amount":1},"input":[{"name":"Technology Module","amount":1},{"name":"Uranium","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Rapidfire Sigma","amount":1},"input":[{"name":"Heridium","amount":100},{"name":"Plutonium","amount":25}],"craftType":"refinery"}
+{"output":{"name":"Uranium","amount":1},"input":[{"name":"Gamma Root","amount":2},{"name":"Salt","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Non-ferrous plate","amount":1},"input":[{"name":"Gamma Root","amount":50},{"name":"Marrow Bulb","amount":20}],"craftType":"blueprint"}
+{"output":{"name":"Exocraft Mounted Cannon","amount":1},"input":[{"name":"Copper","amount":100},{"name":"Pugneum","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Cactus Flesh","amount":1},"input":[{"name":"Oxygen","amount":1},{"name":"Pyrite","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Infrastructure Cylinder","amount":1},"input":[{"name":"Iron","amount":20}],"craftType":"blueprint"}
+{"output":{"name":"Atlas Seed","amount":1},"input":[{"name":"Chromatic Metal","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Cyclotron Ballista Fire Rate Tau","amount":1},"input":[{"name":"Nickel","amount":50},{"name":"Platinum","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Infrastructure Wall","amount":1},"input":[{"name":"Iron","amount":20}],"craftType":"blueprint"}
+{"output":{"name":"Positron Ejector Damage Tau","amount":1},"input":[{"name":"Carbon","amount":50},{"name":"Copper","amount":50},{"name":"Thamium9","amount":200}],"craftType":"refinery"}
+{"output":{"name":"Magnetised Ferrite","amount":3},"input":[{"name":"Emeril","amount":1},{"name":"Ferrite Dust","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Conflict Scanner","amount":1},"input":[{"name":"Technology Module","amount":1},{"name":"Walker Brain","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Herox","amount":1},"input":[{"name":"Ammonia","amount":30},{"name":"Cobalt","amount":60},{"name":"Gold","amount":10}],"craftType":"refinery"}
+{"output":{"name":"Pulse Spitter Accuracy Tau","amount":1},"input":[{"name":"Aluminium","amount":100},{"name":"Platinum","amount":100},{"name":"Titanium","amount":200}],"craftType":"refinery"}
+{"output":{"name":"Fauna Analyzer Sigma","amount":1},"input":[{"name":"Platinum","amount":7},{"name":"Thamium9","amount":15}],"craftType":"blueprint"}
+{"output":{"name":"Star Bramble","amount":1},"input":[{"name":"Paraffinium","amount":25},{"name":"Star Bulb","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Freighter Warp Reactor Theta","amount":1},"input":[{"name":"Dynamic Resonator","amount":3},{"name":"Gold","amount":1000},{"name":"Solanium","amount":1000}],"craftType":"refinery"}
+{"output":{"name":"Health Module Tau","amount":1},"input":[{"name":"Aluminium","amount":150},{"name":"Carbon","amount":125},{"name":"Thamium9","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Ferrite Dust","amount":1},"input":[{"name":"Pyrite","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Nanite Clusters","amount":1},"input":[{"name":"Runaway Mould","amount":5}],"craftType":"refinery"}
+{"output":{"name":"Exocraft Acceleration Module Upgrade Sigma","amount":1},"input":[{"name":"Carite Sheet","amount":1},{"name":"Heridium","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Cylindrical Room","amount":1},"input":[{"name":"Pure Ferrite","amount":350}],"craftType":"refinery"}
+{"output":{"name":"Geobay","amount":1},"input":[{"name":"Ion Battery","amount":4},{"name":"Metal Plating","amount":5},{"name":"Paraffinium","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Microprocessor","amount":1},"input":[{"name":"Carbon Nanotubes","amount":1},{"name":"Chromatic Metal","amount":40}],"craftType":"refinery"}
+{"output":{"name":"Freighter Fuel","amount":1},"input":[{"name":"Fusion Accelerant","amount":1},{"name":"Liquid Explosive","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Infrastructure Cube","amount":1},"input":[{"name":"Iron","amount":20}],"craftType":"blueprint"}
+{"output":{"name":"Carbon Crystal","amount":1},"input":[{"name":"Carbon","amount":50},{"name":"Condensed Carbon","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Recoil Stabiliser Tau","amount":1},"input":[{"name":"Chrysonite","amount":75},{"name":"Thamium9","amount":100},{"name":"Titanium","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Dyson Pump","amount":1},"input":[{"name":"Technology Module","amount":1},{"name":"TetraCobalt","amount":3}],"craftType":"blueprint"}
+{"output":{"name":"Geobay","amount":1},"input":[{"name":"Ion Battery","amount":4},{"name":"Metal Plating","amount":5},{"name":"Paraffinium","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Magno-Gold","amount":1},"input":[{"name":"Ionised Cobalt","amount":30},{"name":"Phosphorus","amount":30},{"name":"Tritium","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Chromatic Metal","amount":6},"input":[{"name":"Activated Emeril","amount":1},{"name":"Pure Ferrite","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Cyclotron Ballista","amount":1},"input":[{"name":"Dioxite","amount":200},{"name":"Technology Module","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Pulse Spitter","amount":1},"input":[{"name":"Deuterium","amount":200},{"name":"Technology Module","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Toxin Suppressor Tau","amount":1},"input":[{"name":"Carbon","amount":100},{"name":"Microdensity Fabric","amount":1},{"name":"Zinc","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Magnetised Ferrite","amount":10},"input":[{"name":"Oxygen","amount":1},{"name":"Platinum","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Grantine","amount":1},"input":[{"name":"Cobalt","amount":60},{"name":"Dioxite","amount":30},{"name":"Platinum","amount":5}],"craftType":"refinery"}
+{"output":{"name":"Exocraft Mounted Cannon Upgrade Sigma","amount":1},"input":[{"name":"Copper","amount":50},{"name":"Pugneum","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Damage Radius Tau","amount":1},"input":[{"name":"Emeril","amount":25},{"name":"Plutonium","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Positron Ejector Damage Sigma","amount":1},"input":[{"name":"Chrysonite","amount":50},{"name":"Thamium9","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Magnetised Ferrite","amount":8},"input":[{"name":"Activated Indium","amount":1},{"name":"Ferrite Dust","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Accelerated Fire Sigma","amount":1},"input":[{"name":"Aluminium","amount":100},{"name":"Iron","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Glass","amount":1},"input":[{"name":"Silver","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Freighter Fuel","amount":1},"input":[{"name":"Fusion Accelerant","amount":1},{"name":"Liquid Explosive","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Radon","amount":1},"input":[{"name":"Sulphurine","amount":3}],"craftType":"refinery"}
+{"output":{"name":"Ferrite Dust","amount":1},"input":[{"name":"Rusted Metal","amount":5}],"craftType":"refinery"}
+{"output":{"name":"Albumen Pearl Orb","amount":1},"input":[{"name":"Indium","amount":60},{"name":"Paraffinium","amount":20}],"craftType":"blueprint"}
+{"output":{"name":"Thermic Condensate","amount":1},"input":[{"name":"Carbon","amount":20},{"name":"Salt","amount":10},{"name":"Sulphurine","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Widebeam Adaptor V1","amount":1},"input":[{"name":"Heridium","amount":20},{"name":"Iron","amount":20},{"name":"Plutonium","amount":25}],"craftType":"refinery"}
+{"output":{"name":"Phase Coolant Theta","amount":1},"input":[{"name":"Copper","amount":200},{"name":"Dimensional Matrix","amount":1},{"name":"Thamium9","amount":200}],"craftType":"refinery"}
+{"output":{"name":"Lemmium","amount":1},"input":[{"name":"Pure Ferrite","amount":60},{"name":"Tritium","amount":20},{"name":"Uranium","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Remembrance","amount":1},"input":[{"name":"Heart of the Sun","amount":1},{"name":"Platinum","amount":8}],"craftType":"blueprint"}
+{"output":{"name":"Geology Cannon","amount":1},"input":[{"name":"Rare Metal Element","amount":1},{"name":"Technology Module","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Starship Launch Fuel","amount":1},"input":[{"name":"Di-hydrogen","amount":50},{"name":"Pure Ferrite","amount":25},{"name":"Sodium Nitrate","amount":5}],"craftType":"refinery"}
+{"output":{"name":"Sulphurine","amount":1},"input":[{"name":"Nitrogen","amount":1},{"name":"Oxygen","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Marrow Bulb","amount":3},"input":[{"name":"Mordite","amount":1},{"name":"Sodium","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Liquid Explosive","amount":1},"input":[{"name":"Acid","amount":1},{"name":"Unstable Gel","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Echinocactus","amount":1},"input":[{"name":"Cactus Flesh","amount":50},{"name":"Pyrite","amount":25}],"craftType":"refinery"}
+{"output":{"name":"Sodium Nitrate","amount":2},"input":[{"name":"Coprite","amount":1},{"name":"Sodium","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Organic Catalyst","amount":1},"input":[{"name":"Enriched Carbon","amount":1},{"name":"Thermic Condensate","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Ion Battery","amount":1},"input":[{"name":"Cobalt","amount":25},{"name":"Ferrite Dust","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Pyrite","amount":1},"input":[{"name":"Cactus Flesh","amount":2},{"name":"Salt","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Conflict Scanner","amount":1},"input":[{"name":"Technology Module","amount":1},{"name":"Walker Brain","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Combat Scope","amount":1},"input":[{"name":"Ion Battery","amount":1},{"name":"Technology Module","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Unstable Gel","amount":1},"input":[{"name":"Cactus Flesh","amount":200}],"craftType":"blueprint"}
+{"output":{"name":"Gravitino Host","amount":1},"input":[{"name":"Chromatic Metal","amount":25},{"name":"Ionised Cobalt","amount":120},{"name":"Magnetised Ferrite","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Cyclotron Ballista Coolant Sigma","amount":1},"input":[{"name":"Chrysonite","amount":30},{"name":"Iron","amount":50},{"name":"Thamium9","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Infra-Knife Accelerator Coolant Theta","amount":1},"input":[{"name":"Chrysonite","amount":125},{"name":"Gravitino Ball","amount":5},{"name":"Thamium9","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Positron Ejector Fire Rate Tau","amount":1},"input":[{"name":"Nickel","amount":100},{"name":"Platinum","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Freighter Warp Reactor Sigma","amount":1},"input":[{"name":"Dynamic Resonator","amount":1},{"name":"Frost Crystal","amount":1000},{"name":"Iridium","amount":200}],"craftType":"refinery"}
+{"output":{"name":"Thermic Condensate","amount":1},"input":[{"name":"Condensed Carbon","amount":10},{"name":"Salt","amount":10},{"name":"Sulphurine","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Life Support Module Tau","amount":1},"input":[{"name":"Platinum","amount":75},{"name":"Plutonium","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Stamina Enhancement Tau","amount":1},"input":[{"name":"Heridium","amount":150},{"name":"Iron","amount":100},{"name":"Plutonium","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Autonomous Mining Unit","amount":1},"input":[{"name":"Advanced Ion Battery","amount":1},{"name":"Metal Plating","amount":2},{"name":"Uranium","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Homingbolt Adaptor","amount":1},"input":[{"name":"AquaSphere","amount":5},{"name":"Plutonium","amount":200},{"name":"Titanium","amount":200}],"craftType":"blueprint"}
+{"output":{"name":"Stasis Device","amount":1},"input":[{"name":"Cryogenic Chamber","amount":1},{"name":"Iridesite","amount":1},{"name":"Quantum Processor","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Paraffinium","amount":1},"input":[{"name":"Salt","amount":1},{"name":"Star Bulb","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Electron Vapor","amount":1},"input":[{"name":"Plutonium","amount":100},{"name":"Suspension Fluid","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Grantine","amount":1},"input":[{"name":"Dioxite","amount":30},{"name":"Gold","amount":10},{"name":"Ionised Cobalt","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Large Hydroponic Tray","amount":1},"input":[{"name":"Carbon","amount":50},{"name":"Ionised Cobalt","amount":50},{"name":"Pure Ferrite","amount":60}],"craftType":"blueprint"}
+{"output":{"name":"Aeration Membrane Tau","amount":1},"input":[{"name":"Carbon","amount":100},{"name":"Microdensity Fabric","amount":1},{"name":"Zinc","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Pulse Spitter Accuracy Sigma","amount":1},"input":[{"name":"Iron","amount":20},{"name":"Nickel","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Superconductor","amount":1},"input":[{"name":"Enriched Carbon","amount":1},{"name":"Semiconductor","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Exocraft Signal Booster Upgrade Sigma","amount":1},"input":[{"name":"Carite Sheet","amount":4},{"name":"Heridium","amount":15},{"name":"Zinc","amount":20}],"craftType":"blueprint"}
+{"output":{"name":"Phase Coolant Tau","amount":1},"input":[{"name":"Heridium","amount":150},{"name":"Platinum","amount":50},{"name":"Thamium9","amount":200}],"craftType":"refinery"}
+{"output":{"name":"Salt","amount":1},"input":[{"name":"Di-hydrogen","amount":1},{"name":"Oxygen","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Rebound Grenades Tau","amount":1},"input":[{"name":"Chrysonite","amount":125},{"name":"Heridium","amount":100},{"name":"Titanium","amount":200}],"craftType":"blueprint"}
+{"output":{"name":"Emeril Drive","amount":1},"input":[{"name":"Cadmium","amount":250},{"name":"Technology Module","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Infrastructure Wall","amount":1},"input":[{"name":"Iron","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Rangeboost Sigma","amount":1},"input":[{"name":"Carbon","amount":30},{"name":"Platinum","amount":15},{"name":"Thamium9","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Modified Quanta","amount":1},"input":[{"name":"Indium","amount":100},{"name":"Novae Reclaiment","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Chlorine","amount":150},"input":[{"name":"Chloride Lattice","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Dirty Bronze","amount":1},"input":[{"name":"Pure Ferrite","amount":60},{"name":"Pyrite","amount":30},{"name":"Silver","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Atlas Seed","amount":1},"input":[{"name":"Captured Nanode","amount":1},{"name":"Pure Ferrite","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Solar Vine","amount":1},"input":[{"name":"Phosphorus","amount":25},{"name":"Solanium","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Atlas Seed","amount":1},"input":[{"name":"Indium","amount":100},{"name":"Novae Reclaiment","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Chromatic Metal","amount":10},"input":[{"name":"Cadmium","amount":1},{"name":"Gold","amount":1},{"name":"Silver","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Aeration Membrane Sigma","amount":1},"input":[{"name":"Carbon","amount":100},{"name":"Iron","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Dioxite","amount":1},"input":[{"name":"Ammonia","amount":2},{"name":"Ferrite Dust","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Infra-Knife Accelerator Fire Rate Sigma","amount":1},"input":[{"name":"Aluminium","amount":50},{"name":"Iron","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Science Terminal","amount":1},"input":[{"name":"Iron","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Boltcaster Clip Tau","amount":1},"input":[{"name":"Nickel","amount":5},{"name":"Plutonium","amount":50},{"name":"Zinc","amount":10}],"craftType":"blueprint"}
+{"output":{"name":"Carite Sheet","amount":1},"input":[{"name":"Iron","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Infra-Knife Accelerator Fire Rate Theta","amount":1},"input":[{"name":"Dimensional Matrix","amount":3},{"name":"Iron","amount":300},{"name":"Thamium9","amount":300}],"craftType":"refinery"}
+{"output":{"name":"Deflection Enhancement Theta","amount":1},"input":[{"name":"Emeril","amount":200},{"name":"Platinum","amount":80},{"name":"Zinc","amount":300}],"craftType":"refinery"}
+{"output":{"name":"Sulphurine","amount":1},"input":[{"name":"Nitrogen","amount":3}],"craftType":"refinery"}
+{"output":{"name":"Impact Damage Sigma","amount":1},"input":[{"name":"Iridium","amount":25},{"name":"Iron","amount":50},{"name":"Platinum","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Pulse Spitter Reload Theta","amount":1},"input":[{"name":"Heridium","amount":250},{"name":"Platinum","amount":150},{"name":"Zinc","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Dirty Bronze","amount":1},"input":[{"name":"Pure Ferrite","amount":60},{"name":"Pyrite","amount":30},{"name":"Tritium","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Personal Forcefield","amount":1},"input":[{"name":"Ion Battery","amount":2},{"name":"Technology Module","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Lemmium","amount":1},"input":[{"name":"Ferrite Dust","amount":120},{"name":"Gold","amount":10},{"name":"Uranium","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Beam Focus Tau","amount":1},"input":[{"name":"Chrysonite","amount":100},{"name":"Plutonium","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Fragment Supercharger","amount":1},"input":[{"name":"Rare Metal Element","amount":3},{"name":"Technology Module","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Freighter Warp Reactor Sigma","amount":1},"input":[{"name":"Dynamic Resonator","amount":1},{"name":"Frost Crystal","amount":500},{"name":"Iridium","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Scatter Blaster Accuracy Tau","amount":1},"input":[{"name":"Chrysonite","amount":75},{"name":"Thamium9","amount":100},{"name":"Titanium","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Freighter Warp Reactor Tau","amount":1},"input":[{"name":"Dynamic Resonator","amount":1},{"name":"Fungal Mould","amount":1000},{"name":"Nickel","amount":480}],"craftType":"blueprint"}
+{"output":{"name":"Herox","amount":1},"input":[{"name":"Ammonia","amount":30},{"name":"Gold","amount":10},{"name":"Ionised Cobalt","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Carbon","amount":2},"input":[{"name":"Star Bulb","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Base Computer","amount":1},"input":[{"name":"Chromatic Metal","amount":40}],"craftType":"refinery"}
+{"output":{"name":"Accelerated Fire Theta","amount":1},"input":[{"name":"Dimensional Matrix","amount":3},{"name":"Iron","amount":300},{"name":"Thamium9","amount":300}],"craftType":"refinery"}
+{"output":{"name":"Herox","amount":1},"input":[{"name":"Ammonia","amount":30},{"name":"Cobalt","amount":60},{"name":"Silver","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Jetpack Booster Theta","amount":1},"input":[{"name":"Chrysonite","amount":150},{"name":"Omegon","amount":50},{"name":"Plutonium","amount":300}],"craftType":"blueprint"}
+{"output":{"name":"T-Shaped Corridor","amount":1},"input":[{"name":"Iron","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Hot Ice","amount":1},"input":[{"name":"Enriched Carbon","amount":1},{"name":"Nitrogen Salt","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Impact Damage Tau","amount":1},"input":[{"name":"Iridium","amount":50},{"name":"Iron","amount":50},{"name":"Platinum","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Warp Reactor Sigma","amount":1},"input":[{"name":"Dynamic Resonator","amount":1},{"name":"Frost Crystal","amount":1000},{"name":"Iridium","amount":200}],"craftType":"refinery"}
+{"output":{"name":"Infra-Knife Accelerator Coolant Tau","amount":1},"input":[{"name":"Chrysonite","amount":70},{"name":"Iridium","amount":120},{"name":"Thamium9","amount":40}],"craftType":"blueprint"}
+{"output":{"name":"Emeril","amount":4},"input":[{"name":"Chromatic Metal","amount":1},{"name":"Emeril","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Cadmium","amount":4},"input":[{"name":"Cadmium","amount":1},{"name":"Chromatic Metal","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Blaze Javelin Coolant Sigma","amount":1},"input":[{"name":"Heridium","amount":20},{"name":"Iridium","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Ion Blast","amount":1},"input":[{"name":"Nickel","amount":100},{"name":"Platinum","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Geodesite","amount":1},"input":[{"name":"Dirty Bronze","amount":1},{"name":"Herox","amount":1},{"name":"Lemmium","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Landing Pad","amount":1},"input":[{"name":"Ion Battery","amount":2},{"name":"Metal Plating","amount":10},{"name":"Microprocessor","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Phase Coolant Sigma","amount":1},"input":[{"name":"Microdensity Fabric","amount":2},{"name":"Platinum","amount":25},{"name":"Thamium9","amount":200}],"craftType":"refinery"}
+{"output":{"name":"Cryogenic Chamber","amount":1},"input":[{"name":"Cryo-Pump","amount":1},{"name":"Living Glass","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Damage Radius","amount":1},"input":[{"name":"Chrysonite","amount":150},{"name":"Iron","amount":50},{"name":"Zinc","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Circuit Board","amount":1},"input":[{"name":"Heat Capacitor","amount":1},{"name":"Poly Fiber","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Sodium Diode","amount":1},"input":[{"name":"Ferrite Dust","amount":40},{"name":"Sodium Nitrate","amount":40}],"craftType":"refinery"}
+{"output":{"name":"Jetpack Booster Tau","amount":1},"input":[{"name":"Chrysonite","amount":75},{"name":"Plutonium","amount":75},{"name":"Titanium","amount":75}],"craftType":"blueprint"}
+{"output":{"name":"Positron Ejector Damage Tau","amount":1},"input":[{"name":"Carbon","amount":50},{"name":"Chrysonite","amount":25},{"name":"Copper","amount":50},{"name":"Thamium9","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Antimatter Housing","amount":1},"input":[{"name":"Ferrite Dust","amount":50},{"name":"Oxygen","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Phosphorus","amount":1},"input":[{"name":"Dioxite","amount":2},{"name":"Ferrite Dust","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Power Gel","amount":1},"input":[{"name":"Carbon","amount":100},{"name":"Plutonium","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Indium Drive","amount":1},"input":[{"name":"Emeril","amount":250},{"name":"Technology Module","amount":3}],"craftType":"refinery"}
+{"output":{"name":"Condensed Carbon","amount":2},"input":[{"name":"Carbon","amount":2},{"name":"Coprite","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Beam Impact Tau","amount":1},"input":[{"name":"Carbon","amount":50},{"name":"Copper","amount":50},{"name":"Thamium9","amount":200}],"craftType":"refinery"}
+{"output":{"name":"Coprite","amount":3},"input":[{"name":"Carbon","amount":2},{"name":"Mordite","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Beam Intensifier Tau","amount":1},"input":[{"name":"Copper","amount":30},{"name":"Iron","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Positron Ejector Fire Rate Sigma","amount":1},"input":[{"name":"Aluminium","amount":50},{"name":"Iron","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Herox","amount":1},"input":[{"name":"Ammonia","amount":30},{"name":"Ionised Cobalt","amount":30},{"name":"Platinum","amount":5}],"craftType":"refinery"}
+{"output":{"name":"Nonlinear Optics","amount":1},"input":[{"name":"Cobalt Mirror","amount":1},{"name":"Technology Module","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Carbon","amount":2},"input":[{"name":"Frost Crystal","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Chromatic Metal","amount":4},"input":[{"name":"Activated Indium","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Rapidfire Theta","amount":1},"input":[{"name":"Aluminium","amount":100},{"name":"Platinum","amount":200}],"craftType":"refinery"}
+{"output":{"name":"Crolium","amount":1},"input":[{"name":"Chrysonite","amount":80},{"name":"Iridium","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Positron Ejector","amount":1},"input":[{"name":"Technology Module","amount":2},{"name":"Uranium","amount":200}],"craftType":"refinery"}
+{"output":{"name":"Rusted Metal","amount":4},"input":[{"name":"Magnetised Ferrite","amount":1},{"name":"Oxygen","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Echinocactus","amount":1},"input":[{"name":"Cactus Flesh","amount":50},{"name":"Pyrite","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Heart of the Sun","amount":1},"input":[{"name":"Gold","amount":100},{"name":"Modified Quanta","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Lemmium","amount":1},"input":[{"name":"Ferrite Dust","amount":120},{"name":"Tritium","amount":20},{"name":"Uranium","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Recoil Stabiliser Theta","amount":1},"input":[{"name":"Heridium","amount":250},{"name":"Platinum","amount":150},{"name":"Zinc","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Light","amount":1},"input":[{"name":"Sodium","amount":5}],"craftType":"refinery"}
+{"output":{"name":"Hot Ice","amount":1},"input":[{"name":"Enriched Carbon","amount":1},{"name":"Nitrogen Salt","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Rare Metal Element","amount":1},"input":[{"name":"Magnetised Ferrite","amount":25},{"name":"Oxygen","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Holo-door","amount":1},"input":[{"name":"Ionised Cobalt","amount":40},{"name":"Pure Ferrite","amount":40}],"craftType":"refinery"}
+{"output":{"name":"Beacon","amount":1},"input":[{"name":"Ion Battery","amount":2},{"name":"Metal Plating","amount":1},{"name":"Microprocessor","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Boltcaster Clip Theta","amount":1},"input":[{"name":"Nickel","amount":75},{"name":"Plutonium","amount":50},{"name":"Zinc","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Blaze Javelin Damage Tau","amount":1},"input":[{"name":"Chrysonite","amount":25},{"name":"Platinum","amount":50},{"name":"Titanium","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Chromatic Metal","amount":1},"input":[{"name":"Copper","amount":1},{"name":"Pure Ferrite","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Race Initiator","amount":1},"input":[{"name":"Ion Battery","amount":1},{"name":"Metal Plating","amount":5},{"name":"Microprocessor","amount":2}],"craftType":"blueprint"}
+{"output":{"name":"Pulse Spitter Damage Tau","amount":1},"input":[{"name":"Iridium","amount":100},{"name":"Platinum","amount":200},{"name":"Radnox","amount":80}],"craftType":"blueprint"}
+{"output":{"name":"Platinum","amount":500},"input":[{"name":"Iridesite","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Phase Coolant Tau","amount":1},"input":[{"name":"Heridium","amount":150},{"name":"Platinum","amount":25},{"name":"Thamium9","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Explosive","amount":1},"input":[{"name":"Coprite","amount":40},{"name":"Solanium","amount":40}],"craftType":"refinery"}
+{"output":{"name":"Construction Terminal","amount":1},"input":[{"name":"Chromatic Metal","amount":40},{"name":"Pure Ferrite","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Signal Booster","amount":1},"input":[{"name":"Carbon Nanotubes","amount":1},{"name":"Metal Plating","amount":1},{"name":"Sodium","amount":15}],"craftType":"blueprint"}
+{"output":{"name":"Atlas Seed","amount":1},"input":[{"name":"Emeril","amount":100},{"name":"State Phasure","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Infra-Knife Accelerator Damage Sigma","amount":1},"input":[{"name":"Chrysonite","amount":50},{"name":"Thamium9","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Scatter Blaster Accuracy Theta","amount":1},"input":[{"name":"Heridium","amount":250},{"name":"Platinum","amount":150},{"name":"Zinc","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Heat Capacitor","amount":1},"input":[{"name":"Frost Crystal","amount":100},{"name":"Solanium","amount":200}],"craftType":"blueprint"}
+{"output":{"name":"Infra-Knife Accelerator Fire Rate Tau","amount":1},"input":[{"name":"Nickel","amount":100},{"name":"Platinum","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Red Canister","amount":1},"input":[{"name":"Dynamic Resonator","amount":2},{"name":"Glass","amount":5},{"name":"Voltaic cell","amount":10}],"craftType":"refinery"}
+{"output":{"name":"Cyclotron Ballista Damage Sigma","amount":1},"input":[{"name":"Chrysonite","amount":25},{"name":"Thamium9","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Advanced Mining Laser","amount":1},"input":[{"name":"Carbon Nanotubes","amount":1},{"name":"Hermetic Seal","amount":1},{"name":"Technology Module","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Cuboid Room","amount":1},"input":[{"name":"Pure Ferrite","amount":200}],"craftType":"refinery"}
+{"output":{"name":"Magno-Gold","amount":1},"input":[{"name":"Cobalt","amount":60},{"name":"Phosphorus","amount":30},{"name":"Platinum","amount":5}],"craftType":"refinery"}
+{"output":{"name":"Life Support Gel","amount":1},"input":[{"name":"Carbon","amount":20},{"name":"Di-hydrogen Jelly","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Beam Focus Theta","amount":1},"input":[{"name":"Chrysonite","amount":200},{"name":"Platinum","amount":200},{"name":"Plutonium","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Toxin Suppressor Sigma","amount":1},"input":[{"name":"Carbon","amount":50},{"name":"Iron","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Agricultural Terminal","amount":1},"input":[{"name":"Chromatic Metal","amount":40},{"name":"Condensed Carbon","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Power Canister","amount":1},"input":[{"name":"Carbon","amount":150},{"name":"Plutonium","amount":75}],"craftType":"blueprint"}
+{"output":{"name":"Positron Ejector Damage Theta","amount":1},"input":[{"name":"Carbon","amount":50},{"name":"Chrysonite","amount":1},{"name":"Omegon","amount":100},{"name":"Thamium9","amount":50},{"name":"Vortex Cube","amount":3}],"craftType":"blueprint"}
+{"output":{"name":"Plasma Resonator","amount":1},"input":[{"name":"Pure Ferrite","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Glass Cuboid Room","amount":1},"input":[{"name":"Carite Sheet","amount":1},{"name":"Glass","amount":2}],"craftType":"blueprint"}
+{"output":{"name":"Pyrite","amount":2},"input":[{"name":"Gold","amount":1},{"name":"Oxygen","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Flora Analyzer Theta","amount":1},"input":[{"name":"Chrysonite","amount":120},{"name":"Plutonium","amount":200},{"name":"Zinc","amount":120}],"craftType":"refinery"}
+{"output":{"name":"Condensed Carbon","amount":3},"input":[{"name":"Condensed Carbon","amount":1},{"name":"Coprite","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Deflection Enhancement Tau","amount":1},"input":[{"name":"Heridium","amount":250},{"name":"Iron","amount":300},{"name":"Titanium","amount":200}],"craftType":"refinery"}
+{"output":{"name":"Exocraft Mining Laser","amount":1},"input":[{"name":"Chromatic Metal","amount":100},{"name":"Magnetised Ferrite","amount":25},{"name":"Oxygen Capsule","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Toxin Suppressor Sigma","amount":1},"input":[{"name":"Carbon","amount":100},{"name":"Iron","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Pulse Spitter Reload Sigma","amount":1},"input":[{"name":"Chrysonite","amount":50},{"name":"Thamium9","amount":100},{"name":"Titanium","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Pure Ferrite","amount":3},"input":[{"name":"Ferrite Dust","amount":2},{"name":"Pugneum","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Acid","amount":1},"input":[{"name":"Fungal Mould","amount":600},{"name":"Mordite","amount":25}],"craftType":"refinery"}
+{"output":{"name":"Herox","amount":1},"input":[{"name":"Ammonia","amount":30},{"name":"Ionised Cobalt","amount":30},{"name":"Tritium","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Neural Stimulator","amount":1},"input":[{"name":"Chromatic Metal","amount":50},{"name":"Condensed Carbon","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Indium Drive","amount":1},"input":[{"name":"Emeril","amount":125},{"name":"Technology Module","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Glass","amount":1},"input":[{"name":"Frost Crystal","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Dynamic Resonator","amount":1},"input":[{"name":"Antimatter","amount":2},{"name":"Chrysonite","amount":100},{"name":"Microdensity Fabric","amount":4}],"craftType":"blueprint"}
+{"output":{"name":"ShieldBoost Theta","amount":1},"input":[{"name":"Chrysonite","amount":300},{"name":"Microdensity Fabric","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Pulse Spitter Reload Tau","amount":1},"input":[{"name":"Chrysonite","amount":75},{"name":"Thamium9","amount":100},{"name":"Titanium","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Holo-door","amount":1},"input":[{"name":"Ionised Cobalt","amount":40},{"name":"Pure Ferrite","amount":40}],"craftType":"blueprint"}
+{"output":{"name":"Grenade Intensity Sigma","amount":1},"input":[{"name":"Heridium","amount":200},{"name":"Thamium9","amount":150},{"name":"Zinc","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Mordite Root","amount":1},"input":[{"name":"Mordite","amount":40}],"craftType":"refinery"}
+{"output":{"name":"Grantine","amount":1},"input":[{"name":"Dioxite","amount":30},{"name":"Ionised Cobalt","amount":30},{"name":"Platinum","amount":5}],"craftType":"refinery"}
+{"output":{"name":"Advanced Cooling Tau","amount":1},"input":[{"name":"Chrysonite","amount":70},{"name":"Iridium","amount":120},{"name":"Thamium9","amount":40}],"craftType":"blueprint"}
+{"output":{"name":"Health Station","amount":1},"input":[{"name":"Ionised Cobalt","amount":20},{"name":"Metal Plating","amount":1},{"name":"Uranium","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Galactic Trade Terminal","amount":1},"input":[{"name":"Magnetised Ferrite","amount":25},{"name":"Microprocessor","amount":3}],"craftType":"blueprint"}
+{"output":{"name":"Radiation Deflector Theta","amount":1},"input":[{"name":"Electron Vapor","amount":1},{"name":"Gravitino Ball","amount":1},{"name":"Microdensity Fabric","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Warp Reactor Tau","amount":1},"input":[{"name":"Dynamic Resonator","amount":1},{"name":"Fungal Mould","amount":1000},{"name":"Nickel","amount":480}],"craftType":"blueprint"}
+{"output":{"name":"Insulating Gel","amount":1},"input":[{"name":"Cactus Flesh","amount":20},{"name":"Fungal Mould","amount":20}],"craftType":"blueprint"}
+{"output":{"name":"Cuboid Room Foundation Strut Quad","amount":1},"input":[{"name":"Iron","amount":20}],"craftType":"blueprint"}
+{"output":{"name":"Scanner","amount":1},"input":[{"name":"Ferrite Dust","amount":75}],"craftType":"blueprint"}
+{"output":{"name":"Aronium","amount":1},"input":[{"name":"Cobalt","amount":60},{"name":"Gold","amount":10},{"name":"Paraffinium","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Blaze Javelin Damage Sigma","amount":1},"input":[{"name":"Carbon","amount":30},{"name":"Titanium","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Deflection Enhancement Sigma","amount":1},"input":[{"name":"Carite Sheet","amount":6},{"name":"Heridium","amount":500}],"craftType":"refinery"}
+{"output":{"name":"Shield Lattice","amount":1},"input":[{"name":"Antimatter","amount":1},{"name":"Sodium Diode","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Rapidfire Theta","amount":1},"input":[{"name":"Aluminium","amount":50},{"name":"Platinum","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Grenade Intensity Theta","amount":1},"input":[{"name":"Aluminium","amount":200},{"name":"Neutrino Module","amount":4},{"name":"Nickel","amount":200}],"craftType":"refinery"}
+{"output":{"name":"Gold","amount":125},"input":[{"name":"Lemmium","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Frostwort","amount":1},"input":[{"name":"Dioxite","amount":25},{"name":"Frost Crystal","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Solar Vine","amount":1},"input":[{"name":"Phosphorus","amount":25},{"name":"Solanium","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Square Room","amount":1},"input":[{"name":"Iron","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Mind Control Device","amount":1},"input":[{"name":"Gold","amount":50},{"name":"Sodium Diode","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Communications Station","amount":1},"input":[{"name":"Pure Ferrite","amount":20}],"craftType":"blueprint"}
+{"output":{"name":"Pulse Spitter Accuracy Tau","amount":1},"input":[{"name":"Aluminium","amount":50},{"name":"Platinum","amount":50},{"name":"Titanium","amount":200}],"craftType":"blueprint"}
+{"output":{"name":"Coolant Network Sigma","amount":1},"input":[{"name":"Carbon","amount":100},{"name":"Iron","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Pulse Spitter Accuracy Sigma","amount":1},"input":[{"name":"Iron","amount":10},{"name":"Nickel","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Mind Arc","amount":1},"input":[{"name":"Chromatic Metal","amount":25},{"name":"Living Glass","amount":1},{"name":"Microprocessor","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Exocraft Terminal","amount":1},"input":[{"name":"Chromatic Metal","amount":40},{"name":"Di-hydrogen","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Beam Impact Theta","amount":1},"input":[{"name":"Carbon","amount":50},{"name":"Omegon","amount":100},{"name":"Vortex Cube","amount":3}],"craftType":"refinery"}
+{"output":{"name":"Shielding Sheet","amount":1},"input":[{"name":"Iron","amount":150},{"name":"Platinum","amount":20}],"craftType":"blueprint"}
+{"output":{"name":"Scatter Blaster","amount":1},"input":[{"name":"Pugneum","amount":200},{"name":"Technology Module","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Exocraft Signal Booster Upgrade Sigma","amount":1},"input":[{"name":"Carite Sheet","amount":4},{"name":"Heridium","amount":30},{"name":"Zinc","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Dirty Bronze","amount":1},"input":[{"name":"Pure Ferrite","amount":100},{"name":"Pyrite","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Exocraft Mining Laser","amount":1},"input":[{"name":"Chromatic Metal","amount":100},{"name":"Magnetised Ferrite","amount":25},{"name":"Oxygen Capsule","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Weatherproof Rubber","amount":1},"input":[{"name":"Kelp Sac","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Cyclotron Ballista Coolant Theta","amount":1},"input":[{"name":"Chrysonite","amount":250},{"name":"Gravitino Ball","amount":10},{"name":"Thamium9","amount":200}],"craftType":"refinery"}
+{"output":{"name":"Condensed Carbon","amount":2},"input":[{"name":"Coprite","amount":1},{"name":"Mordite","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Pure Ferrite","amount":150},"input":[{"name":"Rare Metal Element","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Infra-Knife Accelerator Damage Tau","amount":1},"input":[{"name":"Carbon","amount":50},{"name":"Copper","amount":25},{"name":"Thamium9","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Salt Refractor","amount":1},"input":[{"name":"Chlorine","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Infrastructure Sphere","amount":1},"input":[{"name":"Iron","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Pulse Spitter Reload Tau","amount":1},"input":[{"name":"Chrysonite","amount":150},{"name":"Thamium9","amount":200},{"name":"Titanium","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Organic Catalyst","amount":1},"input":[{"name":"Enriched Carbon","amount":1},{"name":"Thermic Condensate","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Flora Analyzer Theta","amount":1},"input":[{"name":"Chrysonite","amount":120},{"name":"Plutonium","amount":100},{"name":"Zinc","amount":60}],"craftType":"blueprint"}
+{"output":{"name":"Infra-Knife Accelerator Fire Rate Theta","amount":1},"input":[{"name":"Dimensional Matrix","amount":3},{"name":"Iron","amount":150},{"name":"Thamium9","amount":300}],"craftType":"blueprint"}
+{"output":{"name":"Englobed Shade","amount":1},"input":[{"name":"Captured Nanode","amount":1},{"name":"Pure Ferrite","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Power Canister","amount":1},"input":[{"name":"Carbon","amount":150},{"name":"Plutonium","amount":75}],"craftType":"refinery"}
+{"output":{"name":"Reload Accelerant Tau","amount":1},"input":[{"name":"Chrysonite","amount":50},{"name":"Plutonium","amount":50},{"name":"Zinc","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Exocraft Mining Laser Upgrade Sigma","amount":1},"input":[{"name":"Chromatic Metal","amount":50},{"name":"Pugneum","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Infrastructure Cylinder","amount":1},"input":[{"name":"Iron","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Widebeam Adaptor V1","amount":1},"input":[{"name":"Heridium","amount":20},{"name":"Iron","amount":20},{"name":"Plutonium","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Impact Damage Tau","amount":1},"input":[{"name":"Iridium","amount":25},{"name":"Iron","amount":50},{"name":"Platinum","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Combat Amplifier Theta","amount":1},"input":[{"name":"Heridium","amount":400},{"name":"Iron","amount":200},{"name":"Radnox","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Fusion Accelerant","amount":1},"input":[{"name":"Nitrogen Salt","amount":1},{"name":"Organic Catalyst","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Grenade Propulsion Tau","amount":1},"input":[{"name":"Chrysonite","amount":75},{"name":"Thamium9","amount":75},{"name":"Zinc","amount":10}],"craftType":"blueprint"}
+{"output":{"name":"Pulse Spitter Damage Sigma","amount":1},"input":[{"name":"Iridium","amount":50},{"name":"Iron","amount":50},{"name":"Platinum","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Window","amount":1},"input":[{"name":"Glass","amount":1},{"name":"Iron","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Warp Cell","amount":1},"input":[{"name":"Chromatic Metal","amount":250},{"name":"Condensed Carbon","amount":25},{"name":"Sodium","amount":10}],"craftType":"refinery"}
+{"output":{"name":"Lemmium","amount":1},"input":[{"name":"Platinum","amount":5},{"name":"Pure Ferrite","amount":60},{"name":"Uranium","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Silver","amount":1},"input":[{"name":"Residual Goop","amount":5}],"craftType":"refinery"}
+{"output":{"name":"Ionised Cobalt","amount":5},"input":[{"name":"Cobalt","amount":2},{"name":"Oxygen","amount":2}],"craftType":"refinery"}
+{"output":{"name":"GekNip","amount":1},"input":[{"name":"Platinum","amount":100},{"name":"Plutonium","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Chloride Lattice","amount":1},"input":[{"name":"Chlorine","amount":40},{"name":"Salt","amount":40},{"name":"Tritium","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Beam Impact Tau","amount":1},"input":[{"name":"Carbon","amount":50},{"name":"Copper","amount":25},{"name":"Thamium9","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Atlas Seed","amount":1},"input":[{"name":"Magnetised Ferrite","amount":5},{"name":"Noospheric Orb","amount":1}],"craftType":"refinery"}
+{"output":{"name":"18px Beam Focus V3","amount":1},"input":[{"name":"Chrysonite","amount":200},{"name":"Platinum","amount":200},{"name":"Plutonium","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Chromatic Metal","amount":20},"input":[{"name":"Emeril","amount":1},{"name":"Gold","amount":1},{"name":"Silver","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Base Computer","amount":1},"input":[{"name":"Chromatic Metal","amount":40}],"craftType":"blueprint"}
+{"output":{"name":"Scatter Blaster Accuracy Theta","amount":1},"input":[{"name":"Heridium","amount":250},{"name":"Platinum","amount":150},{"name":"Zinc","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Economy Scanner","amount":1},"input":[{"name":"Microprocessor","amount":5},{"name":"Technology Module","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Solanium","amount":1},"input":[{"name":"Oxygen","amount":1},{"name":"Phosphorus","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Lemmium","amount":1},"input":[{"name":"Pure Ferrite","amount":100},{"name":"Uranium","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Quantum Processor","amount":1},"input":[{"name":"Circuit Board","amount":1},{"name":"Superconductor","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Nitrogen Salt","amount":1},"input":[{"name":"Carbon","amount":20},{"name":"Nitrogen","amount":100},{"name":"Salt","amount":10}],"craftType":"refinery"}
+{"output":{"name":"Exocraft Mounted Cannon Upgrade Sigma","amount":1},"input":[{"name":"Copper","amount":100},{"name":"Pugneum","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Oxygen Filter","amount":1},"input":[{"name":"Oxygen","amount":90},{"name":"Pure Ferrite","amount":30}],"craftType":"blueprint"}
+{"output":{"name":"Suspension Fluid","amount":1},"input":[{"name":"Carbon","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Glass Roofed Corridor","amount":1},"input":[{"name":"Glass","amount":1},{"name":"Heridium","amount":10},{"name":"Iron","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Dirty Bronze","amount":1},"input":[{"name":"Ferrite Dust","amount":120},{"name":"Platinum","amount":5},{"name":"Pyrite","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Standing Planter","amount":1},"input":[{"name":"Carite Sheet","amount":1},{"name":"Power Gel","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Portable Reactor","amount":1},"input":[{"name":"Fusion Accelerant","amount":1},{"name":"Liquid Explosive","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Scatter Blaster Capacity Sigma","amount":1},"input":[{"name":"Microdensity Fabric","amount":2},{"name":"Plutonium","amount":50},{"name":"Titanium","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Mordite","amount":1},"input":[{"name":"Carbon","amount":1},{"name":"Pugneum","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Nitrogen","amount":1},"input":[{"name":"Oxygen","amount":1},{"name":"Radon","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Pulse Spitter Accuracy Theta","amount":1},"input":[{"name":"Aluminium","amount":100},{"name":"Platinum","amount":200}],"craftType":"refinery"}
+{"output":{"name":"Uranium","amount":1},"input":[{"name":"Di-hydrogen","amount":1},{"name":"Radon","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Bio-Dome","amount":1},"input":[{"name":"Glass","amount":5},{"name":"Magnetised Ferrite","amount":25}],"craftType":"refinery"}
+{"output":{"name":"Heat Capacitor","amount":1},"input":[{"name":"Frost Crystal","amount":100},{"name":"Solanium","amount":200}],"craftType":"refinery"}
+{"output":{"name":"Weapons Terminal","amount":1},"input":[{"name":"Iron","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Aeration Membrane Sigma","amount":1},"input":[{"name":"Carbon","amount":50},{"name":"Iron","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Blaze Javelin Drill Array Tau","amount":1},"input":[{"name":"Copper","amount":60},{"name":"Iron","amount":200}],"craftType":"refinery"}
+{"output":{"name":"Ionised Cobalt","amount":2},"input":[{"name":"Marrow Bulb","amount":1},{"name":"Pugneum","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Thermic Condensate","amount":1},"input":[{"name":"Carbon","amount":20},{"name":"Chlorine","amount":5},{"name":"Sulphurine","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Gamma Weed","amount":1},"input":[{"name":"Gamma Root","amount":50},{"name":"Uranium","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Atlas Seed","amount":1},"input":[{"name":"Copper","amount":100},{"name":"Dawn's End","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Oxygen Recycler","amount":1},"input":[{"name":"Oxygen Filter","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Plasma Launcher","amount":1},"input":[{"name":"Superoxide Crystal","amount":1},{"name":"Technology Module","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Thermic Layer Theta","amount":1},"input":[{"name":"Electron Vapor","amount":1},{"name":"Gravitino Ball","amount":1},{"name":"Microdensity Fabric","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Pulse Spitter","amount":1},"input":[{"name":"Deuterium","amount":100},{"name":"Technology Module","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Star Seed","amount":1},"input":[{"name":"Gold","amount":16},{"name":"Platinum","amount":16},{"name":"Tritium","amount":16}],"craftType":"refinery"}
+{"output":{"name":"Fourier De-Limiter","amount":1},"input":[{"name":"Salt Refractor","amount":1},{"name":"Technology Module","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Advanced Ion Battery","amount":1},"input":[{"name":"Pure Ferrite","amount":10},{"name":"Silver","amount":10},{"name":"Sodium Nitrate","amount":10}],"craftType":"refinery"}
+{"output":{"name":"Lemmium","amount":1},"input":[{"name":"Gold","amount":10},{"name":"Pure Ferrite","amount":60},{"name":"Uranium","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Noospheric Orb","amount":1},"input":[{"name":"Englobed Shade","amount":1},{"name":"Ionised Cobalt","amount":200}],"craftType":"refinery"}
+{"output":{"name":"Chlorine","amount":2},"input":[{"name":"Kelp Sac","amount":1},{"name":"Pugneum","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Sodium","amount":2},"input":[{"name":"Sodium Nitrate","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Bypass Chip","amount":1},"input":[{"name":"Iron","amount":10},{"name":"Plutonium","amount":10}],"craftType":"blueprint"}
+{"output":{"name":"Life Support Module Tau","amount":1},"input":[{"name":"Platinum","amount":150},{"name":"Plutonium","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Homing Grenade","amount":1},"input":[{"name":"Aluminium","amount":100},{"name":"Gold","amount":100},{"name":"Iron","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Cuboid Room","amount":1},"input":[{"name":"Pure Ferrite","amount":200}],"craftType":"blueprint"}
+{"output":{"name":"Unstable Plasma","amount":1},"input":[{"name":"Carbon","amount":20},{"name":"Cobalt","amount":10},{"name":"Oxygen","amount":10}],"craftType":"refinery"}
+{"output":{"name":"Efficient Thrusters","amount":1},"input":[{"name":"Di-hydrogen Jelly","amount":1},{"name":"Technology Module","amount":2},{"name":"Tritium","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Ablative Armour","amount":1},"input":[{"name":"Cobalt Mirror","amount":1},{"name":"Sodium Nitrate","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Rangeboost Sigma","amount":1},"input":[{"name":"Carbon","amount":15},{"name":"Platinum","amount":8},{"name":"Thamium9","amount":15}],"craftType":"blueprint"}
+{"output":{"name":"Infra-Knife Accelerator Coolant Tau","amount":1},"input":[{"name":"Chrysonite","amount":70},{"name":"Iridium","amount":120},{"name":"Thamium9","amount":80}],"craftType":"refinery"}
+{"output":{"name":"Boltcaster SM","amount":1},"input":[{"name":"Pure Ferrite","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Advanced Cooling Sigma","amount":1},"input":[{"name":"Chrysonite","amount":15},{"name":"Iron","amount":50},{"name":"Thamium9","amount":15}],"craftType":"blueprint"}
+{"output":{"name":"Reload Accelerant Sigma","amount":1},"input":[{"name":"Heridium","amount":8},{"name":"Iron","amount":10},{"name":"Zinc","amount":10}],"craftType":"blueprint"}
+{"output":{"name":"Di-hydrogen Jelly","amount":1},"input":[{"name":"Di-hydrogen","amount":40}],"craftType":"refinery"}
+{"output":{"name":"Teleport Receiver","amount":1},"input":[{"name":"Antimatter","amount":1},{"name":"Technology Module","amount":3}],"craftType":"refinery"}
+{"output":{"name":"Sodium Diode","amount":1},"input":[{"name":"Ferrite Dust","amount":40},{"name":"Sodium Nitrate","amount":40}],"craftType":"blueprint"}
+{"output":{"name":"Projectile Ammunition","amount":1},"input":[{"name":"Ferrite Dust","amount":60}],"craftType":"blueprint"}
+{"output":{"name":"Pulse Spitter Reload Sigma","amount":1},"input":[{"name":"Chrysonite","amount":25},{"name":"Thamium9","amount":100},{"name":"Titanium","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Storage Container","amount":1},"input":[{"name":"Magnetised Ferrite","amount":50},{"name":"Sodium","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Rebound Grenades","amount":1},"input":[{"name":"Chrysonite","amount":15},{"name":"Platinum","amount":10},{"name":"Zinc","amount":10}],"craftType":"blueprint"}
+{"output":{"name":"Advanced Cooling Theta","amount":1},"input":[{"name":"Chrysonite","amount":125},{"name":"Gravitino Ball","amount":5},{"name":"Thamium9","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Cannon Damage Tau","amount":1},"input":[{"name":"Copper","amount":50},{"name":"Iridium","amount":100},{"name":"Zinc","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Coprite","amount":4},"input":[{"name":"Condensed Carbon","amount":1},{"name":"Mordite","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Lemmium","amount":1},"input":[{"name":"Pure Ferrite","amount":60},{"name":"Silver","amount":20},{"name":"Uranium","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Blaze Javelin","amount":1},"input":[{"name":"Chromatic Metal","amount":100},{"name":"Condensed Carbon","amount":150},{"name":"Technology Module","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Infra-Knife Accelerator Damage Theta","amount":1},"input":[{"name":"Carbon","amount":50},{"name":"Omegon","amount":50},{"name":"Vortex Cube","amount":3}],"craftType":"blueprint"}
+{"output":{"name":"Scatter Blaster Damage Sigma","amount":1},"input":[{"name":"Iridium","amount":50},{"name":"Iron","amount":50},{"name":"Platinum","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Ricochet Theta","amount":1},"input":[{"name":"Gold","amount":100},{"name":"Platinum","amount":50},{"name":"Plutonium","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Impact Damage Omega","amount":1},"input":[{"name":"Aluminium","amount":200},{"name":"Copper","amount":200},{"name":"Heridium","amount":400}],"craftType":"refinery"}
+{"output":{"name":"Explosive Drones","amount":1},"input":[{"name":"Gold","amount":50},{"name":"Walker Brain","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Destablised Sodium","amount":1},"input":[{"name":"Sodium Nitrate","amount":150}],"craftType":"blueprint"}
+{"output":{"name":"Beam Intensifier Sigma","amount":1},"input":[{"name":"Heridium","amount":100},{"name":"Plutonium","amount":25}],"craftType":"refinery"}
+{"output":{"name":"Ammonium Salt","amount":1},"input":[{"name":"Carbon","amount":25},{"name":"Nitrogen","amount":250}],"craftType":"blueprint"}
+{"output":{"name":"Rare Metal Element","amount":1},"input":[{"name":"Magnetised Ferrite","amount":20},{"name":"Oxygen","amount":20},{"name":"Tritium","amount":25}],"craftType":"refinery"}
+{"output":{"name":"T-Shaped Corridor","amount":1},"input":[{"name":"Iron","amount":20}],"craftType":"blueprint"}
+{"output":{"name":"Shielding Shard","amount":1},"input":[{"name":"Iron","amount":50},{"name":"Platinum","amount":20}],"craftType":"blueprint"}
+{"output":{"name":"Condensed Carbon","amount":6},"input":[{"name":"Condensed Carbon","amount":1},{"name":"Oxygen","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Magnetised Ferrite","amount":2},"input":[{"name":"Activated Copper","amount":1},{"name":"Ferrite Dust","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Stasis Device","amount":1},"input":[{"name":"Cryogenic Chamber","amount":1},{"name":"Iridesite","amount":1},{"name":"Quantum Processor","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Toxin Suppressor Theta","amount":1},"input":[{"name":"Electron Vapor","amount":1},{"name":"Gravitino Ball","amount":1},{"name":"Microdensity Fabric","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Sodium Nitrate","amount":2},"input":[{"name":"Oxygen","amount":1},{"name":"Sodium Nitrate","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Chromatic Metal","amount":1},"input":[{"name":"Activated Copper","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Mind Control Device","amount":1},"input":[{"name":"Gold","amount":50},{"name":"Sodium Diode","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Beam Coolant System Tau","amount":1},"input":[{"name":"Heridium","amount":100},{"name":"Iridium","amount":200}],"craftType":"refinery"}
+{"output":{"name":"L-Shaped Corridor","amount":1},"input":[{"name":"Iron","amount":20}],"craftType":"blueprint"}
+{"output":{"name":"Save Point","amount":1},"input":[{"name":"Di-hydrogen Jelly","amount":1},{"name":"Metal Plating","amount":2}],"craftType":"blueprint"}
+{"output":{"name":"Save Point","amount":1},"input":[{"name":"Di-hydrogen Jelly","amount":1},{"name":"Metal Plating","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Herox","amount":1},"input":[{"name":"Ammonia","amount":30},{"name":"Cobalt","amount":60},{"name":"Platinum","amount":5}],"craftType":"refinery"}
+{"output":{"name":"Galactic Trade Terminal","amount":1},"input":[{"name":"Magnetised Ferrite","amount":25},{"name":"Microprocessor","amount":3}],"craftType":"refinery"}
+{"output":{"name":"Barrel Ioniser","amount":1},"input":[{"name":"Cobalt Mirror","amount":1},{"name":"Technology Module","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Aronium","amount":1},"input":[{"name":"Ionised Cobalt","amount":30},{"name":"Paraffinium","amount":30},{"name":"Platinum","amount":5}],"craftType":"refinery"}
+{"output":{"name":"Coolant Network Tau","amount":1},"input":[{"name":"Carbon","amount":100},{"name":"Microdensity Fabric","amount":1},{"name":"Zinc","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Coolant Network Sigma","amount":1},"input":[{"name":"Carbon","amount":50},{"name":"Iron","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Rocket Boots","amount":1},"input":[{"name":"Salt Refractor","amount":1},{"name":"Tritium","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Reload Accelerant Theta","amount":1},"input":[{"name":"Calium","amount":50},{"name":"Plutonium","amount":50},{"name":"Zinc","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Large Rocket Tubes","amount":1},"input":[{"name":"Technology Module","amount":1},{"name":"Unstable Plasma","amount":2}],"craftType":"blueprint"}
+{"output":{"name":"Fuel Oxidiser","amount":1},"input":[{"name":"Gold","amount":50},{"name":"Quad Servo","amount":2}],"craftType":"blueprint"}
+{"output":{"name":"Fungal Cluster","amount":1},"input":[{"name":"Ammonia","amount":25},{"name":"Fungal Mould","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Superoxide Crystal","amount":1},"input":[{"name":"Oxygen","amount":40},{"name":"Tritium","amount":50},{"name":"Uranium","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Stamina Enhancement Tau","amount":1},"input":[{"name":"Heridium","amount":150},{"name":"Iron","amount":50},{"name":"Plutonium","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Aronium","amount":1},"input":[{"name":"Ionised Cobalt","amount":50},{"name":"Paraffinium","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Wideshot Adaptor","amount":1},"input":[{"name":"Copper","amount":40},{"name":"Heridium","amount":100},{"name":"Iron","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Indium","amount":4},"input":[{"name":"Chromatic Metal","amount":1},{"name":"Indium","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Cyclotron Ballista Fire Rate Sigma","amount":1},"input":[{"name":"Aluminium","amount":100},{"name":"Iron","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Frost Crystal","amount":1},"input":[{"name":"Dioxite","amount":2},{"name":"Oxygen","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Reload Accelerant Theta","amount":1},"input":[{"name":"Calium","amount":50},{"name":"Plutonium","amount":50},{"name":"Zinc","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Cyclotron Ballista Damage Theta","amount":1},"input":[{"name":"Carbon","amount":50},{"name":"Omegon","amount":100},{"name":"Vortex Cube","amount":3}],"craftType":"refinery"}
+{"output":{"name":"Silver","amount":1},"input":[{"name":"Viscous Fluids","amount":5}],"craftType":"refinery"}
+{"output":{"name":"Cadmium Drive","amount":1},"input":[{"name":"Chromatic Metal","amount":250},{"name":"Technology Module","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Sodium Nitrate","amount":2},"input":[{"name":"Carbon","amount":1},{"name":"Kelp Sac","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Glass","amount":1},"input":[{"name":"Frost Crystal","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Fusion Ignitor","amount":1},"input":[{"name":"Geodesite","amount":1},{"name":"Portable Reactor","amount":1},{"name":"Quantum Processor","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Living Glass","amount":1},"input":[{"name":"Glass","amount":5},{"name":"Lubricant","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Thermic Condensate","amount":1},"input":[{"name":"Condensed Carbon","amount":50},{"name":"Sulphurine","amount":250}],"craftType":"refinery"}
+{"output":{"name":"Pure Ferrite","amount":2},"input":[{"name":"Magnetised Ferrite","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Reload Accelerant Tau","amount":1},"input":[{"name":"Chrysonite","amount":25},{"name":"Plutonium","amount":50},{"name":"Zinc","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Scanner","amount":1},"input":[{"name":"Ferrite Dust","amount":150}],"craftType":"refinery"}
+{"output":{"name":"Novae Reclaiment","amount":1},"input":[{"name":"Emeril","amount":100},{"name":"State Phasure","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Positron Ejector Coolant Tau","amount":1},"input":[{"name":"Chrysonite","amount":70},{"name":"Iridium","amount":120},{"name":"Thamium9","amount":80}],"craftType":"refinery"}
+{"output":{"name":"Carbon","amount":2},"input":[{"name":"Gamma Root","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Sodium Nitrate","amount":1},"input":[{"name":"Nitrogen","amount":1},{"name":"Sodium","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Magnetised Ferrite","amount":4},"input":[{"name":"Magnetised Ferrite","amount":3},{"name":"Pugneum","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Electron Vapor","amount":1},"input":[{"name":"Plutonium","amount":100},{"name":"Suspension Fluid","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Aronium","amount":1},"input":[{"name":"Ionised Cobalt","amount":50},{"name":"Paraffinium","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Scatter Blaster Capacity Theta","amount":1},"input":[{"name":"Nickel","amount":75},{"name":"Plutonium","amount":50},{"name":"Zinc","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Pyrite","amount":1},"input":[{"name":"Gold","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Fourier De-Limiter","amount":1},"input":[{"name":"Salt Refractor","amount":1},{"name":"Technology Module","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Frost Crystal","amount":1},"input":[{"name":"Chromatic Metal","amount":25},{"name":"Dioxite","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Health Module Theta","amount":1},"input":[{"name":"Aluminium","amount":100},{"name":"Plutonium","amount":250},{"name":"Thamium9","amount":300}],"craftType":"blueprint"}
+{"output":{"name":"Terrain Manipulator","amount":1},"input":[{"name":"Carbon Nanotubes","amount":1},{"name":"Di-hydrogen Jelly","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Beacon","amount":1},"input":[{"name":"Ion Battery","amount":2},{"name":"Metal Plating","amount":1},{"name":"Microprocessor","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Fungal Mould","amount":1},"input":[{"name":"Ammonia","amount":2},{"name":"Oxygen","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Destablised Sodium","amount":1},"input":[{"name":"Sodium","amount":50},{"name":"Sodium Nitrate","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Stamina Enhancement Sigma","amount":1},"input":[{"name":"Carbon","amount":10},{"name":"Iron","amount":10}],"craftType":"blueprint"}
+{"output":{"name":"Positron Ejector Coolant Tau","amount":1},"input":[{"name":"Chrysonite","amount":70},{"name":"Iridium","amount":120},{"name":"Thamium9","amount":40}],"craftType":"blueprint"}
+{"output":{"name":"Enriched Carbon","amount":1},"input":[{"name":"Carbon","amount":20},{"name":"Radon","amount":100},{"name":"Salt","amount":10}],"craftType":"refinery"}
+{"output":{"name":"Beam Focus Theta","amount":1},"input":[{"name":"Chrysonite","amount":200},{"name":"Platinum","amount":200},{"name":"Plutonium","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Cannon Damage Tau","amount":1},"input":[{"name":"Copper","amount":25},{"name":"Iridium","amount":100},{"name":"Zinc","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Frost Crystal","amount":1},"input":[{"name":"Chromatic Metal","amount":25},{"name":"Dioxite","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Dirty Bronze","amount":1},"input":[{"name":"Ferrite Dust","amount":120},{"name":"Pyrite","amount":30},{"name":"Silver","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Efficient Thrusters","amount":1},"input":[{"name":"Di-hydrogen Jelly","amount":1},{"name":"Technology Module","amount":2},{"name":"Tritium","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Rusted Metal","amount":2},"input":[{"name":"Oxygen","amount":1},{"name":"Pure Ferrite","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Rebound Grenades","amount":1},"input":[{"name":"Chrysonite","amount":15},{"name":"Platinum","amount":20},{"name":"Zinc","amount":10}],"craftType":"refinery"}
+{"output":{"name":"Heart of the Sun","amount":1},"input":[{"name":"Gold","amount":100},{"name":"Modified Quanta","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Grenade Intensity Theta","amount":1},"input":[{"name":"Aluminium","amount":100},{"name":"Neutrino Module","amount":4},{"name":"Nickel","amount":200}],"craftType":"blueprint"}
+{"output":{"name":"Recoil Stabiliser Sigma","amount":1},"input":[{"name":"Chrysonite","amount":25},{"name":"Thamium9","amount":100},{"name":"Titanium","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Noospheric Orb","amount":1},"input":[{"name":"Englobed Shade","amount":1},{"name":"Ionised Cobalt","amount":200}],"craftType":"blueprint"}
+{"output":{"name":"Beam Impact Sigma","amount":1},"input":[{"name":"Chrysonite","amount":50},{"name":"Thamium9","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Railshot Adaptor","amount":1},"input":[{"name":"Aluminium","amount":100},{"name":"Copper","amount":50},{"name":"Iron","amount":200}],"craftType":"refinery"}
+{"output":{"name":"Cryo-Pump","amount":1},"input":[{"name":"Hot Ice","amount":1},{"name":"Thermic Condensate","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Advanced Ion Battery","amount":1},"input":[{"name":"Ionised Cobalt","amount":25},{"name":"Pure Ferrite","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Ammonia","amount":1},"input":[{"name":"Ferrite Dust","amount":1},{"name":"Paraffinium","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Exocraft Acceleration Module","amount":1},"input":[{"name":"Armadium","amount":20},{"name":"Heridium","amount":50}],"craftType":"refinery"}
+{"output":{"name":"X-Shaped Corridor","amount":1},"input":[{"name":"Iron","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Coolant Network Theta","amount":1},"input":[{"name":"Electron Vapor","amount":1},{"name":"Gravitino Ball","amount":1},{"name":"Microdensity Fabric","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Mordite","amount":2},"input":[{"name":"Condensed Carbon","amount":1},{"name":"Pugneum","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Lubricant","amount":1},"input":[{"name":"Coprite","amount":50},{"name":"Gamma Root","amount":400}],"craftType":"blueprint"}
+{"output":{"name":"Atlas Seed","amount":1},"input":[{"name":"Englobed Shade","amount":1},{"name":"Ionised Cobalt","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Carbon Crystal","amount":1},"input":[{"name":"Condensed Carbon","amount":150}],"craftType":"refinery"}
+{"output":{"name":"Medium Refiner","amount":1},"input":[{"name":"Di-hydrogen Jelly","amount":5},{"name":"Magnetised Ferrite","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Waveform Recycler","amount":1},"input":[{"name":"Ion Battery","amount":1},{"name":"Magnetised Ferrite","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Shielding Shard","amount":1},"input":[{"name":"Iron","amount":50},{"name":"Platinum","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Cannon Damage Theta","amount":1},"input":[{"name":"Gold","amount":50},{"name":"Omegon","amount":50},{"name":"Zinc","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Geodesite","amount":1},"input":[{"name":"Dirty Bronze","amount":1},{"name":"Herox","amount":1},{"name":"Lemmium","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Scatter Blaster Reload Tau","amount":1},"input":[{"name":"Chrysonite","amount":50},{"name":"Plutonium","amount":50},{"name":"Zinc","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Star Bramble","amount":1},"input":[{"name":"Paraffinium","amount":25},{"name":"Star Bulb","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Accelerated Fire Tau","amount":1},"input":[{"name":"Nickel","amount":100},{"name":"Platinum","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Paving","amount":1},"input":[{"name":"Pure Ferrite","amount":5}],"craftType":"refinery"}
+{"output":{"name":"Flora Analyzer Tau","amount":1},"input":[{"name":"Carbon","amount":30},{"name":"Platinum","amount":15},{"name":"Thamium9","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Albumen Pearl Orb","amount":1},"input":[{"name":"Indium","amount":60},{"name":"Paraffinium","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Nitrogen Salt","amount":1},"input":[{"name":"Chlorine","amount":5},{"name":"Condensed Carbon","amount":10},{"name":"Nitrogen","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Sodium Nitrate","amount":5},"input":[{"name":"Carbon","amount":2},{"name":"Sodium","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Cyclotron Ballista Damage Sigma","amount":1},"input":[{"name":"Chrysonite","amount":50},{"name":"Thamium9","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Cuboid Room Foundation Strut","amount":1},"input":[{"name":"Iron","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Cadmium Drive","amount":1},"input":[{"name":"Chromatic Metal","amount":125},{"name":"Technology Module","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Cyclotron Ballista Coolant Sigma","amount":1},"input":[{"name":"Chrysonite","amount":15},{"name":"Iron","amount":50},{"name":"Thamium9","amount":15}],"craftType":"blueprint"}
+{"output":{"name":"Dawn's End","amount":1},"input":[{"name":"Chromatic Metal","amount":25},{"name":"Dark Matter","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Thermic Condensate","amount":1},"input":[{"name":"Condensed Carbon","amount":50},{"name":"Sulphurine","amount":250}],"craftType":"blueprint"}
+{"output":{"name":"Ion Battery","amount":1},"input":[{"name":"Cobalt","amount":25},{"name":"Ferrite Dust","amount":20}],"craftType":"blueprint"}
+{"output":{"name":"Hermetic Seal","amount":1},"input":[{"name":"Condensed Carbon","amount":30}],"craftType":"blueprint"}
+{"output":{"name":"Condensed Carbon","amount":1},"input":[{"name":"Carbon","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Ionised Cobalt","amount":1},"input":[{"name":"Cobalt","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Shielding Plate","amount":1},"input":[{"name":"Iron","amount":100},{"name":"Platinum","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Carbon","amount":2},"input":[{"name":"Condensed Carbon","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Beam Coolant System Theta","amount":1},"input":[{"name":"Aluminium","amount":100},{"name":"Heridium","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Grenade Propulsion","amount":1},"input":[{"name":"Chrysonite","amount":15},{"name":"Platinum","amount":20},{"name":"Zinc","amount":10}],"craftType":"refinery"}
+{"output":{"name":"Pulse Spitter Damage Sigma","amount":1},"input":[{"name":"Iridium","amount":25},{"name":"Iron","amount":50},{"name":"Platinum","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Fungal Cluster","amount":1},"input":[{"name":"Ammonia","amount":25},{"name":"Fungal Mould","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Beam Coolant System Tau","amount":1},"input":[{"name":"Heridium","amount":50},{"name":"Iridium","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Rebound Grenades Tau","amount":1},"input":[{"name":"Chrysonite","amount":250},{"name":"Heridium","amount":200},{"name":"Titanium","amount":200}],"craftType":"refinery"}
+{"output":{"name":"Platinum","amount":1},"input":[{"name":"Gold","amount":1},{"name":"Silver","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Advanced Ion Battery","amount":1},"input":[{"name":"Ionised Cobalt","amount":25},{"name":"Pure Ferrite","amount":20}],"craftType":"blueprint"}
+{"output":{"name":"Accelerated Fire Sigma","amount":1},"input":[{"name":"Aluminium","amount":50},{"name":"Iron","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Advanced Mining Laser","amount":1},"input":[{"name":"Carbon Nanotubes","amount":1},{"name":"Hermetic Seal","amount":1},{"name":"Technology Module","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Scatter Blaster Accuracy Tau","amount":1},"input":[{"name":"Chrysonite","amount":150},{"name":"Thamium9","amount":200},{"name":"Titanium","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Beam Intensifier Sigma","amount":1},"input":[{"name":"Heridium","amount":100},{"name":"Plutonium","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Ricochet Sigma","amount":1},"input":[{"name":"Heridium","amount":200},{"name":"Iron","amount":200},{"name":"Platinum","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Oxygen Capsule","amount":1},"input":[{"name":"Ferrite Dust","amount":25},{"name":"Oxygen","amount":25}],"craftType":"refinery"}
+{"output":{"name":"Semiconductor","amount":1},"input":[{"name":"Nitrogen Salt","amount":1},{"name":"Thermic Condensate","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Dynamic Resonator","amount":1},"input":[{"name":"Antimatter","amount":2},{"name":"Chrysonite","amount":100},{"name":"Microdensity Fabric","amount":4}],"craftType":"refinery"}
+{"output":{"name":"Platinum","amount":250},"input":[{"name":"Geodesite","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Nitrogen Salt","amount":1},"input":[{"name":"Condensed Carbon","amount":50},{"name":"Nitrogen","amount":250}],"craftType":"blueprint"}
+{"output":{"name":"Grenade Propulsion","amount":1},"input":[{"name":"Chrysonite","amount":15},{"name":"Platinum","amount":10},{"name":"Zinc","amount":10}],"craftType":"blueprint"}
+{"output":{"name":"Exocraft Mounted Cannon","amount":1},"input":[{"name":"Copper","amount":50},{"name":"Pugneum","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Carbon","amount":2},"input":[{"name":"Marrow Bulb","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Cyclotron Ballista Coolant Tau","amount":1},"input":[{"name":"Chrysonite","amount":70},{"name":"Iridium","amount":120},{"name":"Thamium9","amount":80}],"craftType":"refinery"}
+{"output":{"name":"Pulse Jet Tau","amount":1},"input":[{"name":"Neutrino Module","amount":2},{"name":"Nickel","amount":100},{"name":"Thamium9","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Grantine","amount":1},"input":[{"name":"Dioxite","amount":30},{"name":"Ionised Cobalt","amount":30},{"name":"Silver","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Boltcaster","amount":1},"input":[{"name":"Carbon Nanotubes","amount":3},{"name":"Chromatic Metal","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Portable Refiner","amount":1},"input":[{"name":"Metal Plating","amount":1},{"name":"Oxygen","amount":30}],"craftType":"blueprint"}
+{"output":{"name":"Cactus Flesh","amount":2},"input":[{"name":"Cactus Flesh","amount":1},{"name":"Pyrite","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Radiation Deflector Sigma","amount":1},"input":[{"name":"Carbon","amount":100},{"name":"Iron","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Analysis Visor","amount":1},"input":[{"name":"Carbon Nanotubes","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Atmosphere Harvester","amount":1},"input":[{"name":"Ammonia","amount":100},{"name":"Hermetic Seal","amount":2},{"name":"Metal Plating","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Grantine","amount":1},"input":[{"name":"Cobalt","amount":60},{"name":"Dioxite","amount":30},{"name":"Tritium","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Cyclotron Ballista Coolant Theta","amount":1},"input":[{"name":"Chrysonite","amount":125},{"name":"Gravitino Ball","amount":5},{"name":"Thamium9","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Cobalt Mirror","amount":1},"input":[{"name":"Ionised Cobalt","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Dawn's End","amount":1},"input":[{"name":"Chromatic Metal","amount":25},{"name":"Dark Matter","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Photon Blast","amount":1},"input":[{"name":"Nickel","amount":100},{"name":"Platinum","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Scatter Blaster Capacity Theta","amount":1},"input":[{"name":"Nickel","amount":150},{"name":"Plutonium","amount":50},{"name":"Zinc","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Voltaic cell","amount":1},"input":[{"name":"Marrow Bulb","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Infra-Knife Accelerator Damage Sigma","amount":1},"input":[{"name":"Chrysonite","amount":25},{"name":"Thamium9","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Scatter Blaster Capacity Tau","amount":1},"input":[{"name":"Nickel","amount":5},{"name":"Plutonium","amount":50},{"name":"Zinc","amount":10}],"craftType":"blueprint"}
+{"output":{"name":"Ferrite Dust","amount":1},"input":[{"name":"Paraffinium","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Reload Accelerant Sigma","amount":1},"input":[{"name":"Heridium","amount":15},{"name":"Iron","amount":20},{"name":"Zinc","amount":10}],"craftType":"refinery"}
+{"output":{"name":"Chlorine","amount":6},"input":[{"name":"Chlorine","amount":1},{"name":"Oxygen","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Flora Analyzer Sigma","amount":1},"input":[{"name":"Platinum","amount":7},{"name":"Thamium9","amount":15}],"craftType":"blueprint"}
+{"output":{"name":"Scatter Blaster Damage Theta","amount":1},"input":[{"name":"Iridium","amount":100},{"name":"Platinum","amount":200},{"name":"Radnox","amount":80}],"craftType":"blueprint"}
+{"output":{"name":"Boltcaster Clip Sigma","amount":1},"input":[{"name":"Microdensity Fabric","amount":1},{"name":"Plutonium","amount":50},{"name":"Titanium","amount":20}],"craftType":"blueprint"}
+{"output":{"name":"Gamma Root","amount":2},"input":[{"name":"Gamma Root","amount":1},{"name":"Uranium","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Lemmium","amount":1},"input":[{"name":"Ferrite Dust","amount":120},{"name":"Silver","amount":20},{"name":"Uranium","amount":30}],"craftType":"refinery"}
+{"output":{"name":"State Phasure","amount":1},"input":[{"name":"Cadmium","amount":100},{"name":"Photic Jade","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Atlas Seed","amount":1},"input":[{"name":"Cadmium","amount":100},{"name":"Photic Jade","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Fauna Analyzer Tau","amount":1},"input":[{"name":"Carbon","amount":15},{"name":"Platinum","amount":7},{"name":"Thamium9","amount":15}],"craftType":"blueprint"}
+{"output":{"name":"Venom Urchin","amount":1},"input":[{"name":"Emeril","amount":100},{"name":"Ionised Cobalt","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Teleport Receiver","amount":1},"input":[{"name":"Antimatter","amount":1},{"name":"Technology Module","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Rare Metal Element","amount":1},"input":[{"name":"Ferrite Dust","amount":35},{"name":"Magnetised Ferrite","amount":35},{"name":"Pure Ferrite","amount":35}],"craftType":"refinery"}
+{"output":{"name":"Carbon","amount":1},"input":[{"name":"Oxygen","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Carbon Crystal","amount":1},"input":[{"name":"Carbon","amount":40},{"name":"Condensed Carbon","amount":40},{"name":"Tritium","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Chlorine","amount":1},"input":[{"name":"Salt","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Beam Coolant System Sigma","amount":1},"input":[{"name":"Heridium","amount":10},{"name":"Iridium","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Chromatic Metal","amount":3},"input":[{"name":"Activated Emeril","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Aronium","amount":1},"input":[{"name":"Ionised Cobalt","amount":30},{"name":"Paraffinium","amount":30},{"name":"Silver","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Phase Beam","amount":1},"input":[{"name":"Technology Module","amount":1},{"name":"Tritium","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Semiconductor","amount":1},"input":[{"name":"Nitrogen Salt","amount":1},{"name":"Thermic Condensate","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Radiation Deflector Tau","amount":1},"input":[{"name":"Carbon","amount":100},{"name":"Microdensity Fabric","amount":1},{"name":"Zinc","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Cyclotron Ballista Fire Rate Theta","amount":1},"input":[{"name":"Dimensional Matrix","amount":3},{"name":"Iron","amount":150},{"name":"Thamium9","amount":300}],"craftType":"blueprint"}
+{"output":{"name":"Hermetic Seal","amount":1},"input":[{"name":"Condensed Carbon","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Herox","amount":1},"input":[{"name":"Ammonia","amount":30},{"name":"Cobalt","amount":60},{"name":"Tritium","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Venom Urchin","amount":1},"input":[{"name":"Emeril","amount":100},{"name":"Ionised Cobalt","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Blaze Javelin Damage Theta","amount":1},"input":[{"name":"Heridium","amount":400},{"name":"Iron","amount":200},{"name":"Radnox","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Living Glass","amount":1},"input":[{"name":"Glass","amount":5},{"name":"Lubricant","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Mordite","amount":2},"input":[{"name":"Coprite","amount":3}],"craftType":"refinery"}
+{"output":{"name":"Economy Scanner","amount":1},"input":[{"name":"Microprocessor","amount":2},{"name":"Technology Module","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Salt Refractor","amount":1},"input":[{"name":"Chlorine","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Enriched Carbon","amount":1},"input":[{"name":"Condensed Carbon","amount":50},{"name":"Radon","amount":250}],"craftType":"refinery"}
+{"output":{"name":"Scatter Blaster Reload Sigma","amount":1},"input":[{"name":"Heridium","amount":15},{"name":"Iron","amount":20},{"name":"Zinc","amount":10}],"craftType":"refinery"}
+{"output":{"name":"Hydroponic Tray","amount":1},"input":[{"name":"Carbon","amount":20},{"name":"Ionised Cobalt","amount":20},{"name":"Pure Ferrite","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Waveform Recycler","amount":1},"input":[{"name":"Ion Battery","amount":1},{"name":"Magnetised Ferrite","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Dirty Bronze","amount":1},"input":[{"name":"Pure Ferrite","amount":100},{"name":"Pyrite","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Thermic Condensate","amount":1},"input":[{"name":"Chlorine","amount":5},{"name":"Condensed Carbon","amount":10},{"name":"Sulphurine","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Atlas Seed","amount":1},"input":[{"name":"Chromatic Metal","amount":25},{"name":"Dark Matter","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Exocraft Signal Booster Upgrade Tau","amount":1},"input":[{"name":"Carite Sheet","amount":4},{"name":"Heridium","amount":40},{"name":"Zinc","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Dirty Bronze","amount":1},"input":[{"name":"Gold","amount":10},{"name":"Pure Ferrite","amount":60},{"name":"Pyrite","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Health Station","amount":1},"input":[{"name":"Ionised Cobalt","amount":20},{"name":"Metal Plating","amount":1},{"name":"Uranium","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Infrastructure Floor","amount":1},"input":[{"name":"Iron","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Enriched Carbon","amount":1},"input":[{"name":"Condensed Carbon","amount":50},{"name":"Radon","amount":250}],"craftType":"blueprint"}
+{"output":{"name":"Decals","amount":1},"input":[{"name":"Iron","amount":10}],"craftType":"blueprint"}
+{"output":{"name":"Communications Station","amount":1},"input":[{"name":"Pure Ferrite","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Fleet Command Room","amount":1},"input":[{"name":"Gold","amount":40},{"name":"Silver","amount":120},{"name":"Tritium","amount":10}],"craftType":"refinery"}
+{"output":{"name":"Nanite Clusters","amount":1},"input":[{"name":"Platinum","amount":5}],"craftType":"refinery"}
+{"output":{"name":"Geology Cannon","amount":1},"input":[{"name":"Rare Metal Element","amount":1},{"name":"Technology Module","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Flora Analyzer Tau","amount":1},"input":[{"name":"Carbon","amount":15},{"name":"Platinum","amount":7},{"name":"Thamium9","amount":15}],"craftType":"blueprint"}
+{"output":{"name":"Gamma Weed","amount":1},"input":[{"name":"Gamma Root","amount":50},{"name":"Uranium","amount":25}],"craftType":"refinery"}
+{"output":{"name":"Railshot Adaptor","amount":1},"input":[{"name":"Aluminium","amount":50},{"name":"Copper","amount":25},{"name":"Iron","amount":200}],"craftType":"blueprint"}
+{"output":{"name":"Grenade Intensity Tau","amount":1},"input":[{"name":"Aluminium","amount":100},{"name":"Iron","amount":200},{"name":"Nickel","amount":200}],"craftType":"blueprint"}
+{"output":{"name":"Cylindrical Room Frame","amount":1},"input":[{"name":"Iron","amount":80}],"craftType":"refinery"}
+{"output":{"name":"Fauna Analyzer Sigma","amount":1},"input":[{"name":"Platinum","amount":15},{"name":"Thamium9","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Warp Reactor Theta","amount":1},"input":[{"name":"Dynamic Resonator","amount":3},{"name":"Gold","amount":1000},{"name":"Solanium","amount":1000}],"craftType":"refinery"}
+{"output":{"name":"Di-hydrogen","amount":50},"input":[{"name":"Di-hydrogen Jelly","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Shield Lattice","amount":1},"input":[{"name":"Antimatter","amount":1},{"name":"Sodium Diode","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Magnetised Ferrite","amount":4},"input":[{"name":"Activated Cadmium","amount":1},{"name":"Ferrite Dust","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Aeration Membrane Theta","amount":1},"input":[{"name":"AquaSphere","amount":1},{"name":"Electron Vapor","amount":1},{"name":"Microdensity Fabric","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Coprite Flower","amount":1},"input":[{"name":"Coprite","amount":40}],"craftType":"blueprint"}
+{"output":{"name":"Infrastructure Floor","amount":1},"input":[{"name":"Iron","amount":20}],"craftType":"blueprint"}
+{"output":{"name":"Destablised Sodium","amount":1},"input":[{"name":"Sodium","amount":40},{"name":"Sodium Nitrate","amount":40},{"name":"Tritium","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Sodium Nitrate","amount":2},"input":[{"name":"Coprite","amount":1},{"name":"Sodium Nitrate","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Large Refiner","amount":1},"input":[{"name":"Chromatic Metal","amount":200},{"name":"Microprocessor","amount":5},{"name":"Sodium Nitrate","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Exocraft Signal Booster Upgrade Tau","amount":1},"input":[{"name":"Carite Sheet","amount":4},{"name":"Heridium","amount":20},{"name":"Zinc","amount":20}],"craftType":"blueprint"}
+{"output":{"name":"Magnetised Ferrite","amount":6},"input":[{"name":"Activated Emeril","amount":1},{"name":"Ferrite Dust","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Fleet Command Room","amount":1},"input":[{"name":"Gold","amount":40},{"name":"Silver","amount":120},{"name":"Tritium","amount":10}],"craftType":"blueprint"}
+{"output":{"name":"Grantine","amount":1},"input":[{"name":"Dioxite","amount":50},{"name":"Ionised Cobalt","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Cuboid Room Foundation Strut","amount":1},"input":[{"name":"Iron","amount":20}],"craftType":"blueprint"}
+{"output":{"name":"Stamina Enhancement Theta","amount":1},"input":[{"name":"Heridium","amount":150},{"name":"Plutonium","amount":50},{"name":"Zinc","amount":75}],"craftType":"blueprint"}
+{"output":{"name":"Ionised Cobalt","amount":150},"input":[{"name":"Tetracobalt","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Oxygen Harvester","amount":1},"input":[{"name":"Di-hydrogen Jelly","amount":3},{"name":"Metal Plating","amount":5},{"name":"Oxygen Capsule","amount":5}],"craftType":"refinery"}
+{"output":{"name":"Novae Reclaiment","amount":1},"input":[{"name":"Emeril","amount":100},{"name":"State Phasure","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Modified Quanta","amount":1},"input":[{"name":"Indium","amount":100},{"name":"Novae Reclaiment","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Magnetised Ferrite","amount":4},"input":[{"name":"Ferrite Dust","amount":1},{"name":"Indium","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Beam Focus Tau","amount":1},"input":[{"name":"Chrysonite","amount":50},{"name":"Plutonium","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Silver","amount":1},"input":[{"name":"Living Slime","amount":5}],"craftType":"refinery"}
+{"output":{"name":"ShieldBoost Sigma","amount":1},"input":[{"name":"Platinum","amount":15},{"name":"Thamium9","amount":15},{"name":"Zinc","amount":15}],"craftType":"refinery"}
+{"output":{"name":"Unstable Plasma","amount":1},"input":[{"name":"Metal Plating","amount":1},{"name":"Oxygen","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Chromatic Metal","amount":4},"input":[{"name":"Activated Cadmium","amount":1},{"name":"Pure Ferrite","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Chromatic Metal","amount":2},"input":[{"name":"Activated Copper","amount":1},{"name":"Pure Ferrite","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Warp Cell","amount":1},"input":[{"name":"Antimatter","amount":1},{"name":"Antimatter Housing","amount":1}],"craftType":"refinery"}
+{"output":{"name":"L-Shaped Corridor","amount":1},"input":[{"name":"Iron","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Thermic Layer Theta","amount":1},"input":[{"name":"Electron Vapor","amount":1},{"name":"Gravitino Ball","amount":1},{"name":"Microdensity Fabric","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Freighter Warp Reactor Theta","amount":1},"input":[{"name":"Dynamic Resonator","amount":1},{"name":"Gold","amount":800},{"name":"Solanium","amount":800}],"craftType":"blueprint"}
+{"output":{"name":"Sodium Nitrate","amount":1},"input":[{"name":"Oxygen","amount":1},{"name":"Sodium","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Magno-Gold","amount":1},"input":[{"name":"Cobalt","amount":60},{"name":"Phosphorus","amount":30},{"name":"Tritium","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Cyclotron Ballista Coolant Tau","amount":1},"input":[{"name":"Chrysonite","amount":70},{"name":"Iridium","amount":120},{"name":"Thamium9","amount":40}],"craftType":"blueprint"}
+{"output":{"name":"Plasma Launcher","amount":1},"input":[{"name":"Superoxide Crystal","amount":1},{"name":"Technology Module","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Magno-Gold","amount":1},"input":[{"name":"Gold","amount":10},{"name":"Ionised Cobalt","amount":30},{"name":"Phosphorus","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Beam Intensifier Theta","amount":1},"input":[{"name":"Copper","amount":120},{"name":"Iridium","amount":100},{"name":"Iron","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Warp Reactor Theta","amount":1},"input":[{"name":"Dynamic Resonator","amount":1},{"name":"Emeril","amount":500},{"name":"Gold","amount":500},{"name":"Solanium","amount":1000}],"craftType":"blueprint"}
+{"output":{"name":"Hyperdrive","amount":1},"input":[{"name":"Chromatic Metal","amount":63},{"name":"Microprocessor","amount":3}],"craftType":"blueprint"}
+{"output":{"name":"Ferrite Dust","amount":1},"input":[{"name":"Dioxite","amount":1}],"craftType":"refinery"}
+{"output":{"name":"GekNip","amount":1},"input":[{"name":"Platinum","amount":100},{"name":"Plutonium","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Ferrite Dust","amount":1},"input":[{"name":"Uranium","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Deflection Enhancement Tau","amount":1},"input":[{"name":"Heridium","amount":250},{"name":"Iron","amount":150},{"name":"Titanium","amount":200}],"craftType":"blueprint"}
+{"output":{"name":"Pure Ferrite","amount":1},"input":[{"name":"Ferrite Dust","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Bypass Chip","amount":1},"input":[{"name":"Iron","amount":10},{"name":"Plutonium","amount":10}],"craftType":"refinery"}
+{"output":{"name":"Cannon Damage Sigma","amount":1},"input":[{"name":"Iron","amount":50},{"name":"Thamium9","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Englobed Shade","amount":1},"input":[{"name":"Captured Nanode","amount":1},{"name":"Pure Ferrite","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Cyclotron Ballista Fire Rate Sigma","amount":1},"input":[{"name":"Aluminium","amount":50},{"name":"Iron","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Pulse Spitter Damage Tau","amount":1},"input":[{"name":"Iridium","amount":200},{"name":"Platinum","amount":200},{"name":"Radnox","amount":80}],"craftType":"refinery"}
+{"output":{"name":"Decals","amount":1},"input":[{"name":"Iron","amount":10}],"craftType":"refinery"}
+{"output":{"name":"Living Slime","amount":1},"input":[{"name":"Viscous Fluids","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Beam Intensifier Tau","amount":1},"input":[{"name":"Copper","amount":60},{"name":"Iron","amount":200}],"craftType":"refinery"}
+{"output":{"name":"Silver","amount":250},"input":[{"name":"Herox","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Beam Coolant System Theta","amount":1},"input":[{"name":"Aluminium","amount":200},{"name":"Heridium","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Chromatic Metal","amount":3},"input":[{"name":"Emeril","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Coolant Network Theta","amount":1},"input":[{"name":"Electron Vapor","amount":0},{"name":"Gravitino Ball","amount":1},{"name":"Microdensity Fabric","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Chromatic Metal","amount":5},"input":[{"name":"Copper","amount":1},{"name":"Gold","amount":1},{"name":"Silver","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Door","amount":1},"input":[{"name":"Iron","amount":20}],"craftType":"blueprint"}
+{"output":{"name":"X-Shaped Corridor","amount":1},"input":[{"name":"Iron","amount":20}],"craftType":"blueprint"}
+{"output":{"name":"Cuboid Room Flooring","amount":1},"input":[{"name":"Iron","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Platinum","amount":10},"input":[{"name":"Chromatic Metal","amount":250},{"name":"Ferrite Dust","amount":1},{"name":"Oxygen","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Impact Damage Theta","amount":1},"input":[{"name":"Iridium","amount":100},{"name":"Platinum","amount":200},{"name":"Radnox","amount":80}],"craftType":"blueprint"}
+{"output":{"name":"Ricochet Theta","amount":1},"input":[{"name":"Gold","amount":100},{"name":"Platinum","amount":100},{"name":"Plutonium","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Shortburst Adaptor","amount":1},"input":[{"name":"Copper","amount":60},{"name":"Heridium","amount":100},{"name":"Zinc","amount":20}],"craftType":"blueprint"}
+{"output":{"name":"Starship Launch Fuel","amount":1},"input":[{"name":"Di-hydrogen","amount":40},{"name":"Metal Plating","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Condensed Carbon","amount":150},"input":[{"name":"Carbon Crystal","amount":1}],"craftType":"refinery"}
+{"output":{"name":"18px Mass Accelerator","amount":1},"input":[{"name":"Superoxide Crystal","amount":1},{"name":"Technology Module","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Radiation Deflector Theta","amount":1},"input":[{"name":"Electron Vapor","amount":1},{"name":"Gravitino Ball","amount":1},{"name":"Microdensity Fabric","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Infra-Knife Accelerator Damage Theta","amount":1},"input":[{"name":"Carbon","amount":50},{"name":"Omegon","amount":100},{"name":"Vortex Cube","amount":3}],"craftType":"refinery"}
+{"output":{"name":"Mineral Compressor","amount":1},"input":[{"name":"Cobalt Mirror","amount":1},{"name":"Gold","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Mind Arc","amount":1},"input":[{"name":"Chromatic Metal","amount":25},{"name":"Living Glass","amount":1},{"name":"Microprocessor","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Pulse Jet Sigma","amount":1},"input":[{"name":"Chrysonite","amount":100},{"name":"Iron","amount":200},{"name":"Zinc","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Magno-Gold","amount":1},"input":[{"name":"Cobalt","amount":60},{"name":"Gold","amount":10},{"name":"Phosphorus","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Grenade Intensity Tau","amount":1},"input":[{"name":"Aluminium","amount":200},{"name":"Iron","amount":200},{"name":"Nickel","amount":200}],"craftType":"refinery"}
+{"output":{"name":"Pulse Spitter Accuracy Theta","amount":1},"input":[{"name":"Aluminium","amount":50},{"name":"Platinum","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Recoil Stabiliser Tau","amount":1},"input":[{"name":"Chrysonite","amount":150},{"name":"Thamium9","amount":200},{"name":"Titanium","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Pulse Spitter Damage Theta","amount":1},"input":[{"name":"Aluminium","amount":100},{"name":"Copper","amount":100},{"name":"Heridium","amount":400}],"craftType":"blueprint"}
+{"output":{"name":"Recoil Stabiliser Theta","amount":1},"input":[{"name":"Heridium","amount":250},{"name":"Platinum","amount":150},{"name":"Zinc","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Scatter Blaster Capacity Sigma","amount":1},"input":[{"name":"Microdensity Fabric","amount":1},{"name":"Plutonium","amount":50},{"name":"Titanium","amount":20}],"craftType":"blueprint"}
+{"output":{"name":"Infrastructure Sphere","amount":1},"input":[{"name":"Iron","amount":20}],"craftType":"blueprint"}
+{"output":{"name":"Explosive Drones","amount":1},"input":[{"name":"Gold","amount":50},{"name":"Walker Brain","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Aronium","amount":1},"input":[{"name":"Gold","amount":10},{"name":"Ionised Cobalt","amount":30},{"name":"Paraffinium","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Thermic Layer Tau","amount":1},"input":[{"name":"Carbon","amount":100},{"name":"Microdensity Fabric","amount":1},{"name":"Zinc","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Nonlinear Optics","amount":1},"input":[{"name":"Cobalt Mirror","amount":1},{"name":"Technology Module","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Race Initiator","amount":1},"input":[{"name":"Ion Battery","amount":1},{"name":"Metal Plating","amount":5},{"name":"Microprocessor","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Gravitino Host","amount":1},"input":[{"name":"Chromatic Metal","amount":25},{"name":"Ionised Cobalt","amount":120},{"name":"Magnetised Ferrite","amount":25}],"craftType":"refinery"}
+{"output":{"name":"Phase Coolant Sigma","amount":1},"input":[{"name":"Microdensity Fabric","amount":1},{"name":"Platinum","amount":12},{"name":"Thamium9","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Microdensity Fabric","amount":1},"input":[{"name":"Iron","amount":50},{"name":"Platinum","amount":10}],"craftType":"refinery"}
+{"output":{"name":"Holographic Analyser","amount":1},"input":[{"name":"Gold","amount":50},{"name":"Oxygen Filter","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Radiation Deflector Tau","amount":1},"input":[{"name":"Carbon","amount":100},{"name":"Microdensity Fabric","amount":0},{"name":"Zinc","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Metal Plating","amount":1},"input":[{"name":"Ferrite Dust","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Ammonium Salt","amount":1},"input":[{"name":"Carbon","amount":25},{"name":"Nitrogen","amount":250}],"craftType":"refinery"}
+{"output":{"name":"Scatter Blaster Reload Tau","amount":1},"input":[{"name":"Chrysonite","amount":25},{"name":"Plutonium","amount":50},{"name":"Zinc","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Pulse Jet Tau","amount":1},"input":[{"name":"Neutrino Module","amount":1},{"name":"Nickel","amount":100},{"name":"Thamium9","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Fauna Analyzer Theta","amount":1},"input":[{"name":"Chrysonite","amount":120},{"name":"Plutonium","amount":200},{"name":"Zinc","amount":120}],"craftType":"refinery"}
+{"output":{"name":"Solanium","amount":1},"input":[{"name":"Di-hydrogen","amount":1},{"name":"Sulphurine","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Copper","amount":4},"input":[{"name":"Chromatic Metal","amount":1},{"name":"Copper","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Beam Impact Sigma","amount":1},"input":[{"name":"Chrysonite","amount":25},{"name":"Thamium9","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Antimatter Housing","amount":1},"input":[{"name":"Ferrite Dust","amount":50},{"name":"Oxygen","amount":30}],"craftType":"blueprint"}
+{"output":{"name":"Rocket Launcher","amount":1},"input":[{"name":"Condensed Carbon","amount":100},{"name":"Copper","amount":200}],"craftType":"refinery"}
+{"output":{"name":"Sodium","amount":2},"input":[{"name":"Sodium","amount":1},{"name":"Tritium","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Glass Roofed Corridor","amount":1},"input":[{"name":"Glass","amount":1},{"name":"Heridium","amount":10},{"name":"Iron","amount":30}],"craftType":"blueprint"}
+{"output":{"name":"Portable Refiner","amount":1},"input":[{"name":"Metal Plating","amount":1},{"name":"Oxygen","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Jetpack Booster Tau","amount":1},"input":[{"name":"Chrysonite","amount":150},{"name":"Plutonium","amount":150},{"name":"Titanium","amount":150}],"craftType":"refinery"}
+{"output":{"name":"Infra-Knife Accelerator Damage Tau","amount":1},"input":[{"name":"Carbon","amount":50},{"name":"Copper","amount":50},{"name":"Thamium9","amount":200}],"craftType":"refinery"}
+{"output":{"name":"Scatter Blaster Accuracy Sigma","amount":1},"input":[{"name":"Chrysonite","amount":50},{"name":"Thamium9","amount":100},{"name":"Titanium","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Poly Fiber","amount":1},"input":[{"name":"Cactus Flesh","amount":100},{"name":"Star Bulb","amount":200}],"craftType":"blueprint"}
+{"output":{"name":"Solanium","amount":2},"input":[{"name":"Phosphorus","amount":1},{"name":"Solanium","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Grenade Intensity Sigma","amount":1},"input":[{"name":"Heridium","amount":100},{"name":"Thamium9","amount":75},{"name":"Zinc","amount":10}],"craftType":"blueprint"}
+{"output":{"name":"Light","amount":1},"input":[{"name":"Sodium","amount":5}],"craftType":"blueprint"}
+{"output":{"name":"Power Reservoir","amount":1},"input":[{"name":"Carbon","amount":200},{"name":"Plutonium","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Shortburst Adaptor","amount":1},"input":[{"name":"Copper","amount":60},{"name":"Heridium","amount":100},{"name":"Zinc","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Blaze Javelin Damage Theta","amount":1},"input":[{"name":"Heridium","amount":400},{"name":"Iron","amount":200},{"name":"Radnox","amount":10}],"craftType":"blueprint"}
+{"output":{"name":"Positron Ejector Coolant Theta","amount":1},"input":[{"name":"Chrysonite","amount":125},{"name":"Gravitino Ball","amount":5},{"name":"Thamium9","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Dirty Bronze","amount":1},"input":[{"name":"Platinum","amount":5},{"name":"Pure Ferrite","amount":60},{"name":"Pyrite","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Scatter Blaster Reload Theta","amount":1},"input":[{"name":"Calium","amount":50},{"name":"Plutonium","amount":50},{"name":"Zinc","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Rangeboost Tau","amount":1},"input":[{"name":"Chrysonite","amount":120},{"name":"Plutonium","amount":100},{"name":"Thamium9","amount":120}],"craftType":"blueprint"}
+{"output":{"name":"Rocket Launcher","amount":1},"input":[{"name":"Condensed Carbon","amount":50},{"name":"Copper","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Wideshot Adaptor","amount":1},"input":[{"name":"Copper","amount":40},{"name":"Heridium","amount":100},{"name":"Iron","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Health Module Sigma","amount":1},"input":[{"name":"Iron","amount":50},{"name":"Plutonium","amount":50},{"name":"Zinc","amount":10}],"craftType":"refinery"}
+{"output":{"name":"Blaze Javelin","amount":1},"input":[{"name":"Chromatic Metal","amount":200},{"name":"Condensed Carbon","amount":150},{"name":"Technology Module","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Infra-Knife Accelerator Coolant Sigma","amount":1},"input":[{"name":"Chrysonite","amount":30},{"name":"Iron","amount":50},{"name":"Thamium9","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Standing Planter","amount":1},"input":[{"name":"Carite Sheet","amount":1},{"name":"Power Gel","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Curved Desk","amount":1},"input":[{"name":"Iron","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Gold","amount":2},"input":[{"name":"Coprite","amount":1},{"name":"Pugneum","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Crolium","amount":1},"input":[{"name":"Chrysonite","amount":80},{"name":"Iridium","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Rusted Metal","amount":1},"input":[{"name":"Ferrite Dust","amount":1},{"name":"Oxygen","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Magnetised Ferrite","amount":2},"input":[{"name":"Cadmium","amount":1},{"name":"Ferrite Dust","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Life Support Module Sigma","amount":1},"input":[{"name":"Platinum","amount":20},{"name":"Plutonium","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Positron Ejector Coolant Sigma","amount":1},"input":[{"name":"Chrysonite","amount":30},{"name":"Iron","amount":50},{"name":"Thamium9","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Cryo-Pump","amount":1},"input":[{"name":"Hot Ice","amount":1},{"name":"Thermic Condensate","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Ion Blast","amount":1},"input":[{"name":"Nickel","amount":50},{"name":"Platinum","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Rare Metal Element","amount":1},"input":[{"name":"Pure Ferrite","amount":150}],"craftType":"refinery"}
+{"output":{"name":"Aronium","amount":1},"input":[{"name":"Cobalt","amount":60},{"name":"Paraffinium","amount":30},{"name":"Silver","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Shielding Plate","amount":1},"input":[{"name":"Iron","amount":100},{"name":"Platinum","amount":20}],"craftType":"blueprint"}
+{"output":{"name":"Enriched Carbon","amount":1},"input":[{"name":"Condensed Carbon","amount":10},{"name":"Radon","amount":100},{"name":"Salt","amount":10}],"craftType":"refinery"}
+{"output":{"name":"Lemmium","amount":1},"input":[{"name":"Ferrite Dust","amount":120},{"name":"Platinum","amount":5},{"name":"Uranium","amount":30}],"craftType":"refinery"}
+{"output":{"name":"AtlasPass v2","amount":1},"input":[{"name":"Cadmium","amount":200},{"name":"Microprocessor","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Grantine","amount":1},"input":[{"name":"Dioxite","amount":50},{"name":"Ionised Cobalt","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Combat Amplifier Theta","amount":1},"input":[{"name":"Heridium","amount":400},{"name":"Iron","amount":200},{"name":"Radnox","amount":10}],"craftType":"blueprint"}
+{"output":{"name":"Oxygen Filter","amount":1},"input":[{"name":"Oxygen","amount":90},{"name":"Pure Ferrite","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Grantine","amount":1},"input":[{"name":"Cobalt","amount":60},{"name":"Dioxite","amount":30},{"name":"Gold","amount":10}],"craftType":"refinery"}
+{"output":{"name":"Positron Ejector Fire Rate Tau","amount":1},"input":[{"name":"Nickel","amount":50},{"name":"Platinum","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Bio-Dome","amount":1},"input":[{"name":"Glass","amount":5},{"name":"Magnetised Ferrite","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Exocraft Terminal","amount":1},"input":[{"name":"Chromatic Metal","amount":40},{"name":"Di-hydrogen","amount":25}],"craftType":"refinery"}
+{"output":{"name":"Aronium","amount":1},"input":[{"name":"Cobalt","amount":60},{"name":"Paraffinium","amount":30},{"name":"Platinum","amount":5}],"craftType":"refinery"}
+{"output":{"name":"Advanced Cooling Theta","amount":1},"input":[{"name":"Chrysonite","amount":250},{"name":"Gravitino Ball","amount":10},{"name":"Thamium9","amount":200}],"craftType":"refinery"}
+{"output":{"name":"Ionised Cobalt","amount":2},"input":[{"name":"Ionised Cobalt","amount":1},{"name":"Marrow Bulb","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Scatter Blaster Reload Theta","amount":1},"input":[{"name":"Calium","amount":50},{"name":"Plutonium","amount":50},{"name":"Zinc","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Power Reservoir","amount":1},"input":[{"name":"Carbon","amount":200},{"name":"Plutonium","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Photon Accelerator","amount":1},"input":[{"name":"Nickel","amount":50},{"name":"Platinum","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Ionised Cobalt","amount":6},"input":[{"name":"Ionised Cobalt","amount":1},{"name":"Oxygen","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Blaze Javelin Coolant Sigma","amount":1},"input":[{"name":"Heridium","amount":10},{"name":"Iridium","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Superconductor","amount":1},"input":[{"name":"Enriched Carbon","amount":1},{"name":"Semiconductor","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Straight Corridor","amount":1},"input":[{"name":"Iron","amount":20}],"craftType":"blueprint"}
+{"output":{"name":"Blaze Javelin Drill Array Sigma","amount":1},"input":[{"name":"Plutonium","amount":25},{"name":"Titanium","amount":15}],"craftType":"blueprint"}
+{"output":{"name":"Exocraft Acceleration Module Upgrade Sigma","amount":1},"input":[{"name":"Carite Sheet","amount":2},{"name":"Heridium","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Magno-Gold","amount":1},"input":[{"name":"Ionised Cobalt","amount":30},{"name":"Phosphorus","amount":30},{"name":"Silver","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Positron Ejector Fire Rate Theta","amount":1},"input":[{"name":"Dimensional Matrix","amount":3},{"name":"Iron","amount":300},{"name":"Thamium9","amount":300}],"craftType":"refinery"}
+{"output":{"name":"Fauna Analyzer Tau","amount":1},"input":[{"name":"Carbon","amount":30},{"name":"Platinum","amount":15},{"name":"Thamium9","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Landing Pad","amount":1},"input":[{"name":"Ion Battery","amount":2},{"name":"Metal Plating","amount":10},{"name":"Microprocessor","amount":2}],"craftType":"blueprint"}
+{"output":{"name":"AtlasPass v2","amount":1},"input":[{"name":"Cadmium","amount":200},{"name":"Microprocessor","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Chlorine","amount":2},"input":[{"name":"Chlorine","amount":1},{"name":"Kelp Sac","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Chromatic Metal","amount":1},"input":[{"name":"Copper","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Aronium","amount":1},"input":[{"name":"Cobalt","amount":60},{"name":"Paraffinium","amount":30},{"name":"Tritium","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Ammonia","amount":1},"input":[{"name":"Di-hydrogen","amount":1},{"name":"Nitrogen","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Blaze Javelin Drill Array Sigma","amount":1},"input":[{"name":"Plutonium","amount":25},{"name":"Titanium","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Suspension Fluid","amount":1},"input":[{"name":"Carbon","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Chlorine","amount":2},"input":[{"name":"Kelp Sac","amount":1},{"name":"Salt","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Stamina Enhancement Theta","amount":1},"input":[{"name":"Heridium","amount":150},{"name":"Plutonium","amount":50},{"name":"Zinc","amount":150}],"craftType":"refinery"}
+{"output":{"name":"Deflection Enhancement Sigma","amount":1},"input":[{"name":"Carite Sheet","amount":3},{"name":"Heridium","amount":250}],"craftType":"blueprint"}
+{"output":{"name":"Nitrogen Salt","amount":1},"input":[{"name":"Condensed Carbon","amount":10},{"name":"Nitrogen","amount":100},{"name":"Salt","amount":10}],"craftType":"refinery"}
+{"output":{"name":"Aeration Membrane Theta","amount":1},"input":[{"name":"AquaSphere","amount":1},{"name":"Electron Vapor","amount":1},{"name":"Microdensity Fabric","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Scatter Blaster Damage Theta","amount":1},"input":[{"name":"Iridium","amount":200},{"name":"Platinum","amount":200},{"name":"Radnox","amount":80}],"craftType":"refinery"}
+{"output":{"name":"Thermic Layer Sigma","amount":1},"input":[{"name":"Carbon","amount":50},{"name":"Iron","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Marrow Bulb","amount":4},"input":[{"name":"Marrow Bulb","amount":1},{"name":"Mordite","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Base Teleport Module","amount":1},"input":[{"name":"Ion Battery","amount":1},{"name":"Ionised Cobalt","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Photon Blast","amount":1},"input":[{"name":"Nickel","amount":100},{"name":"Platinum","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Radiation Deflector Sigma","amount":1},"input":[{"name":"Carbon","amount":50},{"name":"Iron","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Antimatter","amount":1},"input":[{"name":"Chromatic Metal","amount":25},{"name":"Condensed Carbon","amount":20}],"craftType":"blueprint"}
+{"output":{"name":"Boltcaster","amount":1},"input":[{"name":"Carbon Nanotubes","amount":1},{"name":"Chromatic Metal","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Magmox","amount":1},"input":[{"name":"Carbon","amount":30},{"name":"Plutonium","amount":300},{"name":"Thamium9","amount":300}],"craftType":"blueprint"}
+{"output":{"name":"Large Rocket Tubes","amount":1},"input":[{"name":"Technology Module","amount":2},{"name":"Unstable Plasma","amount":4}],"craftType":"refinery"}
+{"output":{"name":"Thermic Layer Sigma","amount":1},"input":[{"name":"Carbon","amount":100},{"name":"Iron","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Recoil Stabiliser Sigma","amount":1},"input":[{"name":"Chrysonite","amount":50},{"name":"Thamium9","amount":100},{"name":"Titanium","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Superoxide Crystal","amount":1},"input":[{"name":"Oxygen","amount":100},{"name":"Tritium","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Phase Coolant Theta","amount":1},"input":[{"name":"Copper","amount":100},{"name":"Dimensional Matrix","amount":0},{"name":"Thamium9","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Ion Battery","amount":1},"input":[{"name":"Carbon","amount":5},{"name":"Cobalt","amount":10},{"name":"Ferrite Dust","amount":10}],"craftType":"refinery"}
+{"output":{"name":"Infra-Knife Accelerator Coolant Sigma","amount":1},"input":[{"name":"Chrysonite","amount":15},{"name":"Iron","amount":50},{"name":"Thamium9","amount":15}],"craftType":"blueprint"}
+{"output":{"name":"Coprite","amount":1},"input":[{"name":"Nitrogen","amount":1},{"name":"Sulphurine","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Holographic Analyser","amount":1},"input":[{"name":"Gold","amount":50},{"name":"Oxygen Filter","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Power Gel","amount":1},"input":[{"name":"Carbon","amount":100},{"name":"Plutonium","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Combat Amplifier Sigma","amount":1},"input":[{"name":"Carbon","amount":30},{"name":"Titanium","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Hyperdrive","amount":1},"input":[{"name":"Chromatic Metal","amount":125},{"name":"Microprocessor","amount":5}],"craftType":"refinery"}
+{"output":{"name":"Flora Analyzer Sigma","amount":1},"input":[{"name":"Platinum","amount":15},{"name":"Thamium9","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Captured Nanode","amount":1},"input":[{"name":"Chromatic Metal","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Circuit Board","amount":1},"input":[{"name":"Heat Capacitor","amount":1},{"name":"Poly Fiber","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Chlorine","amount":2},"input":[{"name":"Kelp Sac","amount":1},{"name":"Oxygen","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Phosphorus","amount":1},"input":[{"name":"Salt","amount":1},{"name":"Solanium","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Health Module Theta","amount":1},"input":[{"name":"Aluminium","amount":200},{"name":"Plutonium","amount":250},{"name":"Thamium9","amount":300}],"craftType":"refinery"}
+{"output":{"name":"Magnetised Ferrite","amount":1},"input":[{"name":"Pure Ferrite","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Large Hydroponic Tray","amount":1},"input":[{"name":"Carbon","amount":50},{"name":"Ionised Cobalt","amount":50},{"name":"Pure Ferrite","amount":60}],"craftType":"refinery"}
+{"output":{"name":"Scatter Blaster Damage Sigma","amount":1},"input":[{"name":"Iridium","amount":25},{"name":"Iron","amount":50},{"name":"Platinum","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Cyclotron Ballista","amount":1},"input":[{"name":"Dioxite","amount":100},{"name":"Technology Module","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Photic Jade","amount":1},"input":[{"name":"Copper","amount":100},{"name":"Dawn's End","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Health Module Sigma","amount":1},"input":[{"name":"Iron","amount":50},{"name":"Plutonium","amount":50},{"name":"Zinc","amount":10}],"craftType":"blueprint"}
+{"output":{"name":"Destablised Sodium","amount":1},"input":[{"name":"Sodium Nitrate","amount":150}],"craftType":"refinery"}
+{"output":{"name":"Voltaic cell","amount":1},"input":[{"name":"Marrow Bulb","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Warp Cell","amount":1},"input":[{"name":"Carbon","amount":50},{"name":"Chromatic Metal","amount":250},{"name":"Sodium Nitrate","amount":5}],"craftType":"refinery"}
+{"output":{"name":"Atlas Seed","amount":1},"input":[{"name":"Gold","amount":100},{"name":"Modified Quanta","amount":1}],"craftType":"refinery"}
+{"output":{"name":"18px Beam Focus V2","amount":1},"input":[{"name":"Chrysonite","amount":100},{"name":"Plutonium","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Projectile Ammunition","amount":1},"input":[{"name":"Ferrite Dust","amount":60}],"craftType":"refinery"}
+{"output":{"name":"Sodium Nitrate","amount":3},"input":[{"name":"Pugneum","amount":1},{"name":"Sodium","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Combat Amplifier Omega","amount":1},"input":[{"name":"Gold","amount":100},{"name":"Heridium","amount":400},{"name":"Iron","amount":200}],"craftType":"refinery"}
+{"output":{"name":"Jetpack Booster Sigma","amount":1},"input":[{"name":"Carite Sheet","amount":1},{"name":"Platinum","amount":8},{"name":"Zinc","amount":10}],"craftType":"blueprint"}
+{"output":{"name":"AtlasPass v3","amount":1},"input":[{"name":"Emeril","amount":200},{"name":"Microprocessor","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Nitrogen Salt","amount":1},"input":[{"name":"Carbon","amount":20},{"name":"Chlorine","amount":5},{"name":"Nitrogen","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Aeration Membrane Tau","amount":1},"input":[{"name":"Carbon","amount":100},{"name":"Microdensity Fabric","amount":1},{"name":"Zinc","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Chromatic Metal","amount":2},"input":[{"name":"Indium","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Dirty Bronze","amount":1},"input":[{"name":"Ferrite Dust","amount":120},{"name":"Gold","amount":10},{"name":"Pyrite","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Combat Amplifier Omega","amount":1},"input":[{"name":"Gold","amount":100},{"name":"Heridium","amount":400},{"name":"Iron","amount":200}],"craftType":"blueprint"}
+{"output":{"name":"Health Module Tau","amount":1},"input":[{"name":"Aluminium","amount":150},{"name":"Carbon","amount":250},{"name":"Thamium9","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Weapons Terminal","amount":1},"input":[{"name":"Iron","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Metal Plating","amount":1},"input":[{"name":"Ferrite Dust","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Cuboid Room Foundation Strut Quad","amount":1},"input":[{"name":"Iron","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Life Support Gel","amount":1},"input":[{"name":"Carbon","amount":20},{"name":"Di-hydrogen Jelly","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Paraffinium","amount":2},"input":[{"name":"Oxygen","amount":1},{"name":"Silver","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Chlorine","amount":5},"input":[{"name":"Oxygen","amount":2},{"name":"Salt","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Magno-Gold","amount":1},"input":[{"name":"Cobalt","amount":60},{"name":"Phosphorus","amount":30},{"name":"Silver","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Sodium Nitrate","amount":3},"input":[{"name":"Pugneum","amount":1},{"name":"Sodium Nitrate","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Infra-Knife Accelerator","amount":1},"input":[{"name":"Phosphorus","amount":200},{"name":"Technology Module","amount":2}],"craftType":"refinery"}
+{"output":{"name":"AtlasPass v3","amount":1},"input":[{"name":"Emeril","amount":200},{"name":"Microprocessor","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Scatter Blaster Damage Tau","amount":1},"input":[{"name":"Iridium","amount":50},{"name":"Iron","amount":50},{"name":"Platinum","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Cyclotron Ballista Damage Theta","amount":1},"input":[{"name":"Carbon","amount":50},{"name":"Omegon","amount":50},{"name":"Vortex Cube","amount":3}],"craftType":"blueprint"}
+{"output":{"name":"Cyclotron Ballista Fire Rate Tau","amount":1},"input":[{"name":"Nickel","amount":100},{"name":"Platinum","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Scatter Blaster Capacity Tau","amount":1},"input":[{"name":"Nickel","amount":10},{"name":"Plutonium","amount":50},{"name":"Zinc","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Weatherproof Rubber","amount":1},"input":[{"name":"Kelp Sac","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Sodium Nitrate","amount":1},"input":[{"name":"Sodium","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Hydroponic Tray","amount":1},"input":[{"name":"Carbon","amount":20},{"name":"Ionised Cobalt","amount":20},{"name":"Pure Ferrite","amount":30}],"craftType":"blueprint"}
+{"output":{"name":"Rare Metal Element","amount":1},"input":[{"name":"Pure Ferrite","amount":150}],"craftType":"blueprint"}
+{"output":{"name":"Medium Refiner","amount":1},"input":[{"name":"Di-hydrogen Jelly","amount":5},{"name":"Magnetised Ferrite","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Iridesite","amount":1},"input":[{"name":"Aronium","amount":1},{"name":"Grantine","amount":1},{"name":"Magno-Gold","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Insulating Gel","amount":1},"input":[{"name":"Cactus Flesh","amount":20},{"name":"Fungal Mould","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Blaze Javelin Damage Sigma","amount":1},"input":[{"name":"Carbon","amount":15},{"name":"Titanium","amount":15}],"craftType":"blueprint"}
+{"output":{"name":"Large Refiner","amount":1},"input":[{"name":"Chromatic Metal","amount":200},{"name":"Microprocessor","amount":5},{"name":"Sodium Nitrate","amount":100}],"craftType":"refinery"}
+{"output":{"name":"Frostwort","amount":1},"input":[{"name":"Dioxite","amount":25},{"name":"Frost Crystal","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Beam Intensifier Theta","amount":1},"input":[{"name":"Copper","amount":120},{"name":"Iridium","amount":100},{"name":"Iron","amount":100}],"craftType":"refinery"}
+{"output":{"name":"ShieldBoost Theta","amount":1},"input":[{"name":"Chrysonite","amount":150},{"name":"Microdensity Fabric","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Chloride Lattice","amount":1},"input":[{"name":"Chlorine","amount":50},{"name":"Salt","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Boltcaster SM","amount":1},"input":[{"name":"Pure Ferrite","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Sodium Nitrate","amount":2},"input":[{"name":"Nitrogen","amount":1},{"name":"Sodium Nitrate","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Ricochet Tau","amount":1},"input":[{"name":"Microdensity Fabric","amount":0},{"name":"Platinum","amount":150},{"name":"Zinc","amount":75}],"craftType":"blueprint"}
+{"output":{"name":"Construction Terminal","amount":1},"input":[{"name":"Chromatic Metal","amount":40},{"name":"Pure Ferrite","amount":25}],"craftType":"refinery"}
+{"output":{"name":"Mineral Compressor","amount":1},"input":[{"name":"Cobalt Mirror","amount":1},{"name":"Gold","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Runaway Mould","amount":1},"input":[{"name":"Living Slime","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Microprocessor","amount":1},"input":[{"name":"Carbon Nanotubes","amount":1},{"name":"Chromatic Metal","amount":40}],"craftType":"blueprint"}
+{"output":{"name":"Aronium","amount":1},"input":[{"name":"Ionised Cobalt","amount":30},{"name":"Paraffinium","amount":30},{"name":"Tritium","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Chromatic Metal","amount":4},"input":[{"name":"Indium","amount":1},{"name":"Pure Ferrite","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Salt","amount":2},"input":[{"name":"Chlorine","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Oxygen Recycler","amount":1},"input":[{"name":"Oxygen Filter","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Haz-Mat Gauntlets","amount":1},"input":[{"name":"Chromatic Metal","amount":25},{"name":"Sodium Nitrate","amount":10}],"craftType":"blueprint"}
+{"output":{"name":"Jetpack Booster Sigma","amount":1},"input":[{"name":"Carite Sheet","amount":1},{"name":"Platinum","amount":15},{"name":"Zinc","amount":10}],"craftType":"refinery"}
+{"output":{"name":"Warp Reactor Sigma","amount":1},"input":[{"name":"Dynamic Resonator","amount":1},{"name":"Frost Crystal","amount":500},{"name":"Iridium","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Nitrogen Salt","amount":1},"input":[{"name":"Condensed Carbon","amount":50},{"name":"Nitrogen","amount":250}],"craftType":"refinery"}
+{"output":{"name":"Cyclotron Ballista Damage Tau","amount":1},"input":[{"name":"Carbon","amount":50},{"name":"Copper","amount":25},{"name":"Thamium9","amount":100}],"craftType":"blueprint"}
+{"output":{"name":"Rangeboost Tau","amount":1},"input":[{"name":"Chrysonite","amount":120},{"name":"Plutonium","amount":200},{"name":"Thamium9","amount":120}],"craftType":"refinery"}
+{"output":{"name":"Liquid Explosive","amount":1},"input":[{"name":"Acid","amount":1},{"name":"Unstable Gel","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Portable Reactor","amount":1},"input":[{"name":"Fusion Accelerant","amount":1},{"name":"Liquid Explosive","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Oxygen Capsule","amount":1},"input":[{"name":"Ferrite Dust","amount":25},{"name":"Oxygen","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Star Bulb","amount":2},"input":[{"name":"Paraffinium","amount":1},{"name":"Star Bulb","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Carbon Nanotubes","amount":1},"input":[{"name":"Carbon","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Scatter Blaster","amount":1},"input":[{"name":"Pugneum","amount":100},{"name":"Technology Module","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Advanced Cooling Sigma","amount":1},"input":[{"name":"Chrysonite","amount":30},{"name":"Iron","amount":50},{"name":"Thamium9","amount":30}],"craftType":"refinery"}
+{"output":{"name":"Combat Amplifier Tau","amount":1},"input":[{"name":"Chrysonite","amount":25},{"name":"Platinum","amount":50},{"name":"Titanium","amount":25}],"craftType":"blueprint"}
+{"output":{"name":"Cannon Damage Theta","amount":1},"input":[{"name":"Gold","amount":50},{"name":"Omegon","amount":100},{"name":"Zinc","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Emeril Drive","amount":1},"input":[{"name":"Cadmium","amount":125},{"name":"Technology Module","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Magnetised Ferrite","amount":3},"input":[{"name":"Pugneum","amount":1},{"name":"Pure Ferrite","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Dirty Bronze","amount":1},"input":[{"name":"Ferrite Dust","amount":120},{"name":"Pyrite","amount":30},{"name":"Tritium","amount":20}],"craftType":"refinery"}
+{"output":{"name":"Chromatic Metal","amount":1},"input":[{"name":"Cadmium","amount":1}],"craftType":"refinery"}
+{"output":{"name":"Toxin Suppressor Theta","amount":1},"input":[{"name":"Electron Vapor","amount":1},{"name":"Gravitino Ball","amount":1},{"name":"Microdensity Fabric","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Fragment Supercharger","amount":1},"input":[{"name":"Rare Metal Element","amount":1},{"name":"Technology Module","amount":1}],"craftType":"blueprint"}
+{"output":{"name":"Infra-Knife Accelerator Fire Rate Sigma","amount":1},"input":[{"name":"Aluminium","amount":100},{"name":"Iron","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Gamma Root","amount":1},"input":[{"name":"Oxygen","amount":1},{"name":"Uranium","amount":2}],"craftType":"refinery"}
+{"output":{"name":"Blaze Javelin Drill Array Theta","amount":1},"input":[{"name":"Copper","amount":120},{"name":"Iridium","amount":100},{"name":"Iron","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Homing Grenade","amount":1},"input":[{"name":"Aluminium","amount":50},{"name":"Gold","amount":100},{"name":"Iron","amount":50}],"craftType":"blueprint"}
+{"output":{"name":"Remembrance","amount":1},"input":[{"name":"Heart of the Sun","amount":1},{"name":"Platinum","amount":16}],"craftType":"refinery"}
+{"output":{"name":"Nitrogen","amount":1},"input":[{"name":"Radon","amount":3}],"craftType":"refinery"}
+{"output":{"name":"Boltcaster Clip Theta","amount":1},"input":[{"name":"Nickel","amount":150},{"name":"Plutonium","amount":50},{"name":"Zinc","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Barrel Ioniser","amount":1},"input":[{"name":"Cobalt Mirror","amount":1},{"name":"Technology Module","amount":1}],"craftType":"refinery"}
+{"output":{"name":"TetraCobalt","amount":1},"input":[{"name":"Cobalt","amount":40},{"name":"Ionised Cobalt","amount":40},{"name":"Tritium","amount":50}],"craftType":"refinery"}
+{"output":{"name":"Ionised Cobalt","amount":2},"input":[{"name":"Cobalt","amount":1},{"name":"Marrow Bulb","amount":1}],"craftType":"refinery"}
